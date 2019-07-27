@@ -1,0 +1,4461 @@
+1;62;Gesetz;Dafür/Dagegen;1;5;"15.11.2018 18:12:31",
+10;38;Änderungsvorschlag;Fairness;1;1;"16.11.2018 13:03:43",
+100;42;Gesetz;Fairness;0;156;"28.11.2018 09:11:13",
+1000;91;Gesetz;Verständlichkeit;1;136;"12.01.2019 15:13:44",
+1001;91;Gesetz;Fairness;1;137;"12.01.2019 15:20:41",
+1002;91;Gesetz;Dafür/Dagegen;1;137;"12.01.2019 15:20:41",
+1004;90;Gesetz;Dafür/Dagegen;1;116;"12.01.2019 16:34:49",
+1005;90;Gesetz;Verständlichkeit;1;116;"12.01.2019 16:34:56",
+1006;90;Gesetz;Fairness;0;116;"12.01.2019 16:34:59",
+1007;90;Gesetz;Fairness;1;41;"12.01.2019 16:37:42",
+1008;90;Gesetz;Dafür/Dagegen;1;41;"12.01.2019 16:37:42",
+1009;90;Gesetz;Verständlichkeit;1;41;"12.01.2019 16:37:42",
+1010;94;Gesetz;Fairness;1;164;"15.01.2019 12:57:01",
+1011;94;Gesetz;Fairness;1;77;"15.01.2019 13:00:48",
+1013;94;Gesetz;Fairness;0;115;"15.01.2019 13:02:50",
+1014;94;Änderungsvorschlag;Fairness;0;22;"15.01.2019 20:08:43",
+1016;94;Gesetz;Dafür/Dagegen;1;76;"15.01.2019 20:13:22",
+1017;94;Gesetz;Verständlichkeit;1;76;"15.01.2019 20:13:23",
+1018;93;Gesetz;Fairness;-1;5;"17.01.2019 17:19:27",
+1019;93;Gesetz;Fairness;1;6;"17.01.2019 17:23:46",
+102;74;Gesetz;Fairness;1;48;"28.11.2018 20:08:08",
+1020;93;Gesetz;Verständlichkeit;1;6;"17.01.2019 17:23:53",
+1021;93;Gesetz;Fairness;1;7;"17.01.2019 17:37:03",
+1022;93;Gesetz;Dafür/Dagegen;1;7;"17.01.2019 17:37:05",
+1023;93;Gesetz;Verständlichkeit;1;7;"17.01.2019 17:37:08",
+1024;93;Gesetz;Fairness;0;10;"17.01.2019 18:16:27",
+1025;93;Gesetz;Dafür/Dagegen;-1;10;"17.01.2019 18:16:29",
+1026;93;Gesetz;Verständlichkeit;-1;10;"17.01.2019 18:16:35",
+1027;93;Gesetz;Fairness;-1;69;"17.01.2019 18:35:09",
+1028;93;Gesetz;Dafür/Dagegen;0;69;"17.01.2019 18:35:20",
+1029;93;Gesetz;Verständlichkeit;0;69;"17.01.2019 18:35:21",
+103;74;Gesetz;Fairness;1;45;"28.11.2018 20:08:52",
+1030;91;Gesetz;Fairness;1;138;"17.01.2019 20:50:39",
+1031;91;Gesetz;Dafür/Dagegen;1;138;"17.01.2019 20:50:39",
+1032;91;Gesetz;Verständlichkeit;1;138;"17.01.2019 20:50:39",
+1033;91;Gesetz;Fairness;1;127;"17.01.2019 20:50:42",
+1034;91;Gesetz;Dafür/Dagegen;1;127;"17.01.2019 20:50:42",
+1035;91;Gesetz;Verständlichkeit;1;127;"17.01.2019 20:50:42",
+1036;91;Gesetz;Fairness;1;140;"17.01.2019 20:50:46",
+1037;91;Gesetz;Dafür/Dagegen;1;140;"17.01.2019 20:50:46",
+1038;91;Gesetz;Verständlichkeit;1;140;"17.01.2019 20:50:47",
+1039;91;Gesetz;Fairness;0;128;"17.01.2019 20:50:54",
+104;81;Gesetz;Fairness;1;1;"05.12.2018 20:50:20",
+1040;91;Gesetz;Dafür/Dagegen;0;128;"17.01.2019 20:50:55",
+1041;91;Gesetz;Verständlichkeit;0;128;"17.01.2019 20:50:56",
+1042;91;Gesetz;Fairness;1;139;"17.01.2019 20:51:14",
+1043;91;Gesetz;Dafür/Dagegen;1;139;"17.01.2019 20:51:14",
+1044;91;Gesetz;Verständlichkeit;1;139;"17.01.2019 20:51:14",
+1045;91;Gesetz;Fairness;1;126;"17.01.2019 20:51:24",
+1046;91;Gesetz;Dafür/Dagegen;1;126;"17.01.2019 20:51:24",
+1047;91;Gesetz;Verständlichkeit;1;126;"17.01.2019 20:51:25",
+1048;91;Gesetz;Fairness;1;124;"17.01.2019 20:51:49",
+1049;91;Gesetz;Dafür/Dagegen;1;124;"17.01.2019 20:51:49",
+105;81;Gesetz;Dafür/Dagegen;1;1;"05.12.2018 20:50:21",
+1050;91;Gesetz;Verständlichkeit;1;124;"17.01.2019 20:51:49",
+1051;91;Gesetz;Fairness;1;122;"17.01.2019 20:52:05",
+1052;91;Gesetz;Verständlichkeit;1;122;"17.01.2019 20:52:05",
+1053;91;Gesetz;Dafür/Dagegen;1;122;"17.01.2019 20:52:06",
+1054;91;Gesetz;Fairness;1;120;"17.01.2019 20:52:46",
+1055;91;Gesetz;Dafür/Dagegen;1;120;"17.01.2019 20:52:46",
+1056;91;Gesetz;Verständlichkeit;1;120;"17.01.2019 20:52:47",
+1057;91;Gesetz;Fairness;1;118;"17.01.2019 20:53:02",
+1058;91;Gesetz;Dafür/Dagegen;1;118;"17.01.2019 20:53:02",
+1059;91;Gesetz;Verständlichkeit;1;118;"17.01.2019 20:53:03",
+106;81;Gesetz;Verständlichkeit;1;1;"05.12.2018 20:50:22",
+1060;91;Gesetz;Fairness;1;116;"17.01.2019 20:53:14",
+1061;91;Gesetz;Verständlichkeit;1;116;"17.01.2019 20:53:14",
+1062;91;Gesetz;Dafür/Dagegen;1;116;"17.01.2019 20:53:15",
+1063;91;Gesetz;Fairness;1;113;"17.01.2019 20:53:18",
+1064;91;Gesetz;Dafür/Dagegen;1;113;"17.01.2019 20:53:18",
+1065;91;Gesetz;Verständlichkeit;1;113;"17.01.2019 20:53:19",
+1066;91;Gesetz;Fairness;1;111;"17.01.2019 20:53:24",
+1067;91;Gesetz;Dafür/Dagegen;1;111;"17.01.2019 20:53:24",
+1068;91;Gesetz;Verständlichkeit;1;111;"17.01.2019 20:53:24",
+1069;91;Gesetz;Fairness;1;108;"17.01.2019 20:53:29",
+107;81;Gesetz;Fairness;1;2;"05.12.2018 20:53:07",
+1070;91;Gesetz;Dafür/Dagegen;1;108;"17.01.2019 20:53:30",
+1071;91;Gesetz;Verständlichkeit;1;108;"17.01.2019 20:53:30",
+1072;91;Gesetz;Fairness;1;141;"17.01.2019 20:53:42",
+1073;91;Gesetz;Verständlichkeit;1;141;"17.01.2019 20:53:42",
+1074;91;Gesetz;Dafür/Dagegen;1;141;"17.01.2019 20:53:43",
+1075;91;Gesetz;Fairness;0;142;"17.01.2019 20:53:46",
+1076;91;Gesetz;Dafür/Dagegen;0;142;"17.01.2019 20:53:46",
+1077;91;Gesetz;Verständlichkeit;0;142;"17.01.2019 20:53:46",
+1078;91;Gesetz;Fairness;1;105;"17.01.2019 20:54:12",
+1079;91;Gesetz;Dafür/Dagegen;1;105;"17.01.2019 20:54:13",
+108;81;Gesetz;Dafür/Dagegen;1;2;"05.12.2018 20:53:11",
+1080;91;Gesetz;Verständlichkeit;1;105;"17.01.2019 20:54:13",
+1081;91;Gesetz;Fairness;1;100;"17.01.2019 20:54:39",
+1082;91;Gesetz;Dafür/Dagegen;-1;100;"17.01.2019 20:54:39",
+1083;91;Gesetz;Verständlichkeit;-1;100;"17.01.2019 20:54:40",
+1084;91;Gesetz;Fairness;1;143;"17.01.2019 20:59:37",
+1085;91;Gesetz;Dafür/Dagegen;-1;143;"17.01.2019 20:59:37",
+1086;91;Gesetz;Verständlichkeit;-1;143;"17.01.2019 20:59:37",
+1087;91;Gesetz;Fairness;1;99;"17.01.2019 21:00:32",
+1088;91;Gesetz;Dafür/Dagegen;-1;99;"17.01.2019 21:00:33",
+1089;91;Gesetz;Verständlichkeit;-1;99;"17.01.2019 21:00:33",
+109;81;Gesetz;Verständlichkeit;1;2;"05.12.2018 20:53:12",
+1090;91;Gesetz;Fairness;1;98;"17.01.2019 21:00:38",
+1091;91;Gesetz;Dafür/Dagegen;0;98;"17.01.2019 21:00:47",
+1092;91;Gesetz;Verständlichkeit;0;98;"17.01.2019 21:00:47",
+1093;91;Gesetz;Fairness;1;97;"17.01.2019 21:01:09",
+1094;91;Gesetz;Dafür/Dagegen;-1;97;"17.01.2019 21:01:09",
+1095;91;Gesetz;Verständlichkeit;-1;97;"17.01.2019 21:01:10",
+1097;91;Gesetz;Fairness;-1;96;"17.01.2019 21:03:58",
+1098;91;Gesetz;Dafür/Dagegen;0;96;"17.01.2019 21:03:59",
+1099;91;Gesetz;Verständlichkeit;0;96;"17.01.2019 21:03:59",
+11;38;Änderungsvorschlag;Dafür/Dagegen;0;1;"16.11.2018 13:03:47",
+110;81;Gesetz;Fairness;1;3;"05.12.2018 20:56:09",
+1100;91;Gesetz;Fairness;0;95;"17.01.2019 21:04:13",
+1101;91;Gesetz;Dafür/Dagegen;0;95;"17.01.2019 21:04:13",
+1102;91;Gesetz;Verständlichkeit;0;95;"17.01.2019 21:04:13",
+1103;91;Gesetz;Fairness;0;94;"17.01.2019 21:04:36",
+1104;91;Gesetz;Dafür/Dagegen;0;94;"17.01.2019 21:04:36",
+1105;91;Gesetz;Verständlichkeit;0;94;"17.01.2019 21:04:36",
+1106;91;Gesetz;Fairness;0;93;"17.01.2019 21:04:48",
+1107;91;Gesetz;Dafür/Dagegen;0;93;"17.01.2019 21:04:48",
+1108;91;Gesetz;Verständlichkeit;0;93;"17.01.2019 21:04:48",
+1109;91;Gesetz;Fairness;0;91;"17.01.2019 21:04:51",
+111;81;Gesetz;Dafür/Dagegen;1;3;"05.12.2018 20:56:10",
+1110;91;Gesetz;Dafür/Dagegen;0;91;"17.01.2019 21:04:52",
+1111;91;Gesetz;Verständlichkeit;0;91;"17.01.2019 21:04:52",
+1112;91;Gesetz;Fairness;0;90;"17.01.2019 21:04:57",
+1113;91;Gesetz;Dafür/Dagegen;0;90;"17.01.2019 21:04:57",
+1114;91;Gesetz;Verständlichkeit;0;90;"17.01.2019 21:04:58",
+1115;91;Gesetz;Fairness;0;89;"17.01.2019 21:05:06",
+1116;91;Gesetz;Dafür/Dagegen;0;89;"17.01.2019 21:05:06",
+1117;91;Gesetz;Verständlichkeit;0;89;"17.01.2019 21:05:07",
+112;81;Gesetz;Verständlichkeit;1;3;"05.12.2018 20:56:11",
+1120;91;Gesetz;Fairness;-1;88;"17.01.2019 21:06:38",
+1121;91;Gesetz;Dafür/Dagegen;1;88;"17.01.2019 21:06:39",
+1122;91;Gesetz;Verständlichkeit;1;88;"17.01.2019 21:06:39",
+1124;91;Gesetz;Fairness;0;87;"17.01.2019 21:07:05",
+1125;91;Gesetz;Dafür/Dagegen;0;87;"17.01.2019 21:07:06",
+1126;91;Gesetz;Verständlichkeit;0;87;"17.01.2019 21:07:06",
+1127;91;Gesetz;Fairness;1;86;"17.01.2019 21:08:07",
+1128;91;Gesetz;Dafür/Dagegen;1;86;"17.01.2019 21:08:07",
+1129;91;Gesetz;Verständlichkeit;1;86;"17.01.2019 21:08:07",
+113;81;Gesetz;Fairness;1;4;"05.12.2018 20:56:57",
+1130;91;Gesetz;Fairness;0;85;"17.01.2019 21:08:10",
+1131;91;Gesetz;Dafür/Dagegen;0;85;"17.01.2019 21:08:10",
+1132;91;Gesetz;Verständlichkeit;0;85;"17.01.2019 21:08:11",
+1133;91;Gesetz;Fairness;0;84;"17.01.2019 21:08:13",
+1134;91;Gesetz;Dafür/Dagegen;0;84;"17.01.2019 21:08:14",
+1135;91;Gesetz;Verständlichkeit;0;84;"17.01.2019 21:08:14",
+1136;91;Gesetz;Fairness;0;83;"17.01.2019 21:08:46",
+1137;91;Gesetz;Fairness;0;82;"17.01.2019 21:08:55",
+1138;91;Gesetz;Dafür/Dagegen;0;82;"17.01.2019 21:08:55",
+1139;91;Gesetz;Verständlichkeit;0;82;"17.01.2019 21:08:55",
+114;81;Gesetz;Dafür/Dagegen;1;4;"05.12.2018 20:56:57",
+1140;91;Gesetz;Fairness;0;81;"17.01.2019 21:09:01",
+1141;91;Gesetz;Dafür/Dagegen;0;81;"17.01.2019 21:09:01",
+1142;91;Gesetz;Verständlichkeit;0;81;"17.01.2019 21:09:02",
+1143;91;Gesetz;Fairness;0;80;"17.01.2019 21:09:05",
+1144;91;Gesetz;Dafür/Dagegen;0;80;"17.01.2019 21:09:05",
+1145;91;Gesetz;Verständlichkeit;0;80;"17.01.2019 21:09:05",
+1146;91;Gesetz;Fairness;1;79;"17.01.2019 21:10:14",
+1147;91;Gesetz;Dafür/Dagegen;1;79;"17.01.2019 21:10:14",
+1148;91;Gesetz;Verständlichkeit;1;79;"17.01.2019 21:10:14",
+1149;91;Gesetz;Fairness;1;78;"17.01.2019 21:10:28",
+115;81;Gesetz;Verständlichkeit;1;4;"05.12.2018 20:56:58",
+1150;91;Gesetz;Dafür/Dagegen;1;78;"17.01.2019 21:10:28",
+1151;91;Gesetz;Verständlichkeit;1;78;"17.01.2019 21:10:28",
+1152;91;Gesetz;Fairness;1;77;"17.01.2019 21:11:36",
+1153;91;Gesetz;Dafür/Dagegen;1;77;"17.01.2019 21:11:36",
+1154;91;Gesetz;Verständlichkeit;1;77;"17.01.2019 21:11:37",
+1155;91;Gesetz;Fairness;1;76;"17.01.2019 21:12:19",
+1156;91;Gesetz;Dafür/Dagegen;1;76;"17.01.2019 21:12:20",
+1157;91;Gesetz;Verständlichkeit;1;76;"17.01.2019 21:12:21",
+1158;91;Gesetz;Fairness;0;75;"17.01.2019 21:12:24",
+1159;91;Gesetz;Dafür/Dagegen;0;75;"17.01.2019 21:12:24",
+116;81;Gesetz;Fairness;0;5;"05.12.2018 21:02:12",
+1160;91;Gesetz;Verständlichkeit;0;75;"17.01.2019 21:12:24",
+1161;91;Gesetz;Fairness;1;74;"17.01.2019 21:12:34",
+1162;91;Gesetz;Verständlichkeit;1;74;"17.01.2019 21:12:34",
+1163;91;Gesetz;Dafür/Dagegen;1;74;"17.01.2019 21:12:35",
+1164;91;Gesetz;Fairness;0;73;"17.01.2019 21:12:39",
+1165;91;Gesetz;Dafür/Dagegen;0;73;"17.01.2019 21:12:39",
+1166;91;Gesetz;Verständlichkeit;0;73;"17.01.2019 21:12:39",
+1167;91;Gesetz;Fairness;1;72;"17.01.2019 21:12:43",
+1168;91;Gesetz;Dafür/Dagegen;1;72;"17.01.2019 21:12:43",
+1169;91;Gesetz;Verständlichkeit;1;72;"17.01.2019 21:12:44",
+117;81;Gesetz;Dafür/Dagegen;-1;5;"05.12.2018 21:02:24",
+1170;91;Gesetz;Fairness;1;71;"17.01.2019 21:13:03",
+1171;91;Gesetz;Verständlichkeit;1;71;"17.01.2019 21:13:03",
+1172;91;Gesetz;Dafür/Dagegen;1;71;"17.01.2019 21:13:03",
+1173;91;Gesetz;Fairness;0;70;"17.01.2019 21:13:17",
+1174;91;Gesetz;Dafür/Dagegen;0;70;"17.01.2019 21:13:17",
+1175;91;Gesetz;Verständlichkeit;0;70;"17.01.2019 21:13:17",
+1176;91;Gesetz;Fairness;1;69;"17.01.2019 21:13:38",
+1177;91;Gesetz;Dafür/Dagegen;-1;69;"17.01.2019 21:13:39",
+1178;91;Gesetz;Verständlichkeit;-1;69;"17.01.2019 21:13:40",
+1179;91;Gesetz;Dafür/Dagegen;1;68;"17.01.2019 21:13:49",
+118;81;Gesetz;Verständlichkeit;-1;5;"05.12.2018 21:03:02",
+1180;91;Gesetz;Fairness;1;68;"17.01.2019 21:13:49",
+1181;91;Gesetz;Verständlichkeit;1;68;"17.01.2019 21:13:50",
+1182;91;Gesetz;Fairness;1;67;"17.01.2019 21:13:53",
+1183;91;Gesetz;Dafür/Dagegen;1;67;"17.01.2019 21:13:53",
+1184;91;Gesetz;Verständlichkeit;1;67;"17.01.2019 21:13:54",
+1185;91;Gesetz;Fairness;0;66;"17.01.2019 21:13:58",
+1186;91;Gesetz;Dafür/Dagegen;0;66;"17.01.2019 21:13:58",
+1187;91;Gesetz;Verständlichkeit;0;66;"17.01.2019 21:13:59",
+1188;91;Gesetz;Fairness;1;65;"17.01.2019 21:14:12",
+1189;91;Gesetz;Dafür/Dagegen;1;65;"17.01.2019 21:14:12",
+119;81;Gesetz;Fairness;1;6;"05.12.2018 21:03:51",
+1190;91;Gesetz;Verständlichkeit;1;65;"17.01.2019 21:14:12",
+1191;91;Gesetz;Fairness;0;92;"17.01.2019 21:14:15",
+1192;91;Gesetz;Dafür/Dagegen;0;92;"17.01.2019 21:14:15",
+1193;91;Gesetz;Verständlichkeit;0;92;"17.01.2019 21:14:16",
+1194;91;Gesetz;Fairness;1;63;"17.01.2019 21:14:25",
+1195;91;Gesetz;Dafür/Dagegen;1;63;"17.01.2019 21:14:25",
+1196;91;Gesetz;Verständlichkeit;1;63;"17.01.2019 21:14:25",
+1197;91;Gesetz;Fairness;1;61;"17.01.2019 21:14:59",
+1198;91;Gesetz;Dafür/Dagegen;1;61;"17.01.2019 21:15:00",
+1199;91;Gesetz;Verständlichkeit;1;61;"17.01.2019 21:15:00",
+12;38;Änderungsvorschlag;Verständlichkeit;0;1;"16.11.2018 13:03:51",
+120;81;Gesetz;Dafür/Dagegen;1;6;"05.12.2018 21:03:52",
+1200;91;Gesetz;Fairness;1;58;"17.01.2019 21:15:27",
+1201;91;Gesetz;Dafür/Dagegen;1;58;"17.01.2019 21:15:27",
+1202;91;Gesetz;Verständlichkeit;1;58;"17.01.2019 21:15:27",
+1203;91;Gesetz;Fairness;1;56;"17.01.2019 21:15:35",
+1204;91;Gesetz;Dafür/Dagegen;1;56;"17.01.2019 21:15:35",
+1205;91;Gesetz;Verständlichkeit;1;56;"17.01.2019 21:15:36",
+1206;91;Gesetz;Fairness;1;52;"17.01.2019 21:15:43",
+1207;91;Gesetz;Dafür/Dagegen;1;52;"17.01.2019 21:15:43",
+1208;91;Gesetz;Verständlichkeit;1;52;"17.01.2019 21:15:43",
+1209;91;Gesetz;Fairness;1;49;"17.01.2019 21:17:29",
+121;81;Gesetz;Verständlichkeit;1;6;"05.12.2018 21:03:53",
+1210;91;Gesetz;Dafür/Dagegen;-1;49;"17.01.2019 21:17:30",
+1211;91;Gesetz;Verständlichkeit;-1;49;"17.01.2019 21:17:30",
+1212;91;Gesetz;Fairness;0;46;"17.01.2019 21:17:34",
+1213;91;Gesetz;Dafür/Dagegen;0;46;"17.01.2019 21:17:35",
+1214;91;Gesetz;Verständlichkeit;0;46;"17.01.2019 21:17:35",
+1215;91;Gesetz;Fairness;1;43;"17.01.2019 21:17:45",
+1216;91;Gesetz;Dafür/Dagegen;1;43;"17.01.2019 21:17:45",
+1217;91;Gesetz;Verständlichkeit;1;43;"17.01.2019 21:17:45",
+1218;91;Gesetz;Fairness;1;41;"17.01.2019 21:18:28",
+1219;91;Gesetz;Dafür/Dagegen;1;41;"17.01.2019 21:18:29",
+122;81;Gesetz;Fairness;1;7;"05.12.2018 21:06:11",
+1220;91;Gesetz;Verständlichkeit;1;41;"17.01.2019 21:18:29",
+1221;91;Gesetz;Fairness;1;40;"17.01.2019 21:19:57",
+1222;91;Gesetz;Dafür/Dagegen;1;40;"17.01.2019 21:19:57",
+1223;91;Gesetz;Verständlichkeit;1;40;"17.01.2019 21:19:58",
+1224;91;Gesetz;Fairness;1;38;"17.01.2019 21:20:25",
+1225;91;Gesetz;Dafür/Dagegen;1;38;"17.01.2019 21:20:26",
+1226;91;Gesetz;Verständlichkeit;1;38;"17.01.2019 21:20:26",
+1227;91;Gesetz;Fairness;0;35;"17.01.2019 21:20:27",
+1228;91;Gesetz;Dafür/Dagegen;0;35;"17.01.2019 21:20:28",
+1229;91;Gesetz;Verständlichkeit;0;35;"17.01.2019 21:20:28",
+123;81;Gesetz;Dafür/Dagegen;-1;7;"05.12.2018 21:06:14",
+1230;91;Gesetz;Fairness;1;32;"17.01.2019 21:20:38",
+1231;91;Gesetz;Dafür/Dagegen;1;32;"17.01.2019 21:20:39",
+1232;91;Gesetz;Verständlichkeit;1;32;"17.01.2019 21:20:39",
+1233;91;Gesetz;Fairness;0;30;"17.01.2019 21:20:42",
+1234;91;Gesetz;Dafür/Dagegen;0;30;"17.01.2019 21:20:42",
+1235;91;Gesetz;Verständlichkeit;0;30;"17.01.2019 21:20:43",
+1236;91;Gesetz;Fairness;0;27;"17.01.2019 21:20:45",
+1237;91;Gesetz;Dafür/Dagegen;0;27;"17.01.2019 21:20:45",
+1238;91;Gesetz;Verständlichkeit;0;27;"17.01.2019 21:20:46",
+1239;91;Gesetz;Fairness;1;25;"17.01.2019 21:20:56",
+124;81;Gesetz;Verständlichkeit;-1;7;"05.12.2018 21:06:15",
+1240;91;Gesetz;Dafür/Dagegen;-1;25;"17.01.2019 21:20:57",
+1241;91;Gesetz;Verständlichkeit;-1;25;"17.01.2019 21:20:57",
+1242;91;Gesetz;Fairness;0;22;"17.01.2019 21:21:00",
+1243;91;Gesetz;Dafür/Dagegen;0;22;"17.01.2019 21:21:00",
+1244;91;Gesetz;Verständlichkeit;0;22;"17.01.2019 21:21:00",
+1245;91;Gesetz;Fairness;1;21;"17.01.2019 21:21:05",
+1246;91;Gesetz;Dafür/Dagegen;1;21;"17.01.2019 21:21:05",
+1247;91;Gesetz;Verständlichkeit;1;21;"17.01.2019 21:21:05",
+1248;91;Gesetz;Fairness;1;19;"17.01.2019 21:21:42",
+1249;91;Gesetz;Dafür/Dagegen;1;19;"17.01.2019 21:21:42",
+125;81;Gesetz;Fairness;1;8;"05.12.2018 21:10:58",
+1250;91;Gesetz;Verständlichkeit;1;19;"17.01.2019 21:21:42",
+1251;91;Gesetz;Dafür/Dagegen;0;144;"17.01.2019 21:22:08",
+1252;91;Gesetz;Verständlichkeit;0;144;"17.01.2019 21:22:08",
+1253;91;Gesetz;Fairness;0;144;"17.01.2019 21:22:08",
+1254;91;Gesetz;Fairness;1;145;"17.01.2019 21:22:22",
+1255;91;Gesetz;Dafür/Dagegen;1;145;"17.01.2019 21:22:23",
+1256;91;Gesetz;Verständlichkeit;1;145;"17.01.2019 21:22:23",
+1257;91;Gesetz;Fairness;1;146;"17.01.2019 21:22:38",
+1258;91;Gesetz;Dafür/Dagegen;1;146;"17.01.2019 21:22:38",
+1259;91;Gesetz;Verständlichkeit;1;146;"17.01.2019 21:22:38",
+126;81;Gesetz;Dafür/Dagegen;1;8;"05.12.2018 21:10:58",
+1260;91;Gesetz;Fairness;1;147;"17.01.2019 21:22:42",
+1261;91;Gesetz;Dafür/Dagegen;1;147;"17.01.2019 21:22:42",
+1262;91;Gesetz;Verständlichkeit;1;147;"17.01.2019 21:22:42",
+1263;91;Gesetz;Fairness;1;148;"17.01.2019 21:22:49",
+1264;91;Gesetz;Dafür/Dagegen;1;148;"17.01.2019 21:22:49",
+1265;91;Gesetz;Verständlichkeit;1;148;"17.01.2019 21:22:49",
+1266;91;Gesetz;Fairness;1;149;"17.01.2019 21:22:51",
+1267;91;Gesetz;Dafür/Dagegen;1;149;"17.01.2019 21:22:51",
+1268;91;Gesetz;Verständlichkeit;1;149;"17.01.2019 21:22:52",
+1269;91;Gesetz;Fairness;1;150;"17.01.2019 21:22:55",
+127;81;Gesetz;Verständlichkeit;1;8;"05.12.2018 21:10:59",
+1270;91;Gesetz;Dafür/Dagegen;1;150;"17.01.2019 21:22:55",
+1271;91;Gesetz;Verständlichkeit;1;150;"17.01.2019 21:22:56",
+1272;91;Gesetz;Fairness;0;151;"17.01.2019 21:22:59",
+1273;91;Gesetz;Dafür/Dagegen;0;151;"17.01.2019 21:23:01",
+1274;91;Gesetz;Verständlichkeit;0;151;"17.01.2019 21:23:02",
+1275;91;Gesetz;Fairness;0;152;"17.01.2019 21:23:07",
+1276;91;Gesetz;Dafür/Dagegen;0;152;"17.01.2019 21:23:07",
+1277;91;Gesetz;Verständlichkeit;0;152;"17.01.2019 21:23:07",
+1278;91;Gesetz;Fairness;1;153;"17.01.2019 21:23:15",
+1279;91;Gesetz;Dafür/Dagegen;1;153;"17.01.2019 21:23:15",
+128;81;Gesetz;Fairness;0;9;"05.12.2018 21:11:51",
+1280;91;Gesetz;Verständlichkeit;1;153;"17.01.2019 21:23:15",
+1281;91;Gesetz;Fairness;1;154;"17.01.2019 21:23:18",
+1282;91;Gesetz;Dafür/Dagegen;1;154;"17.01.2019 21:23:18",
+1283;91;Gesetz;Verständlichkeit;1;154;"17.01.2019 21:23:19",
+1284;91;Gesetz;Fairness;1;155;"17.01.2019 21:23:31",
+1285;91;Gesetz;Dafür/Dagegen;1;155;"17.01.2019 21:23:31",
+1286;91;Gesetz;Verständlichkeit;1;155;"17.01.2019 21:23:31",
+1287;91;Gesetz;Fairness;1;156;"17.01.2019 21:26:15",
+1288;91;Gesetz;Dafür/Dagegen;1;156;"17.01.2019 21:26:15",
+1289;91;Gesetz;Verständlichkeit;1;156;"17.01.2019 21:26:16",
+129;81;Gesetz;Dafür/Dagegen;1;9;"05.12.2018 21:11:52",
+1290;91;Gesetz;Fairness;0;16;"17.01.2019 21:26:23",
+1291;91;Gesetz;Dafür/Dagegen;0;16;"17.01.2019 21:26:23",
+1292;91;Gesetz;Verständlichkeit;0;16;"17.01.2019 21:26:23",
+1293;91;Gesetz;Fairness;0;11;"17.01.2019 21:26:43",
+1294;91;Gesetz;Dafür/Dagegen;0;11;"17.01.2019 21:26:44",
+1295;91;Gesetz;Verständlichkeit;0;11;"17.01.2019 21:26:44",
+1296;96;Gesetz;Fairness;1;94;"18.01.2019 15:46:53",
+1297;96;Gesetz;Dafür/Dagegen;1;94;"18.01.2019 15:46:55",
+1298;96;Gesetz;Verständlichkeit;1;94;"18.01.2019 15:46:56",
+13;59;Gesetz;Fairness;-1;31;"17.11.2018 16:36:45",
+130;81;Gesetz;Verständlichkeit;1;9;"05.12.2018 21:11:53",
+1301;96;Gesetz;Verständlichkeit;-1;51;"18.01.2019 15:58:46",
+1302;96;Gesetz;Dafür/Dagegen;0;51;"18.01.2019 15:59:01",
+1303;96;Gesetz;Fairness;1;51;"18.01.2019 15:59:01",
+1304;96;Gesetz;Fairness;0;121;"18.01.2019 16:16:22",
+1305;96;Gesetz;Dafür/Dagegen;1;121;"18.01.2019 16:16:25",
+1306;96;Gesetz;Verständlichkeit;1;121;"18.01.2019 16:16:26",
+1307;96;Gesetz;Fairness;0;81;"18.01.2019 16:39:38",
+1308;96;Gesetz;Dafür/Dagegen;0;81;"18.01.2019 16:39:40",
+131;81;Gesetz;Fairness;1;158;"05.12.2018 21:13:47",
+1311;96;Gesetz;Verständlichkeit;0;81;"18.01.2019 16:39:50",
+1312;96;Änderungsvorschlag;Fairness;1;28;"18.01.2019 16:54:12",
+1313;96;Änderungsvorschlag;Dafür/Dagegen;-1;28;"18.01.2019 16:54:16",
+1314;96;Änderungsvorschlag;Verständlichkeit;-1;28;"18.01.2019 16:54:16",
+1315;93;Gesetz;Fairness;-1;68;"18.01.2019 17:41:13",
+1316;93;Gesetz;Dafür/Dagegen;-1;68;"18.01.2019 17:41:14",
+1317;93;Gesetz;Verständlichkeit;-1;68;"18.01.2019 17:41:16",
+1318;93;Gesetz;Fairness;1;100;"19.01.2019 15:18:32",
+1319;93;Gesetz;Dafür/Dagegen;0;100;"19.01.2019 15:18:33",
+132;81;Gesetz;Dafür/Dagegen;1;158;"05.12.2018 21:13:48",
+1320;93;Gesetz;Verständlichkeit;0;100;"19.01.2019 15:18:36",
+1321;93;Gesetz;Fairness;1;96;"19.01.2019 15:24:28",
+1322;93;Gesetz;Dafür/Dagegen;1;96;"19.01.2019 15:24:29",
+1323;93;Gesetz;Verständlichkeit;1;96;"19.01.2019 15:24:30",
+1325;90;Gesetz;Dafür/Dagegen;-1;164;"23.01.2019 14:27:52",
+1326;90;Gesetz;Fairness;0;164;"23.01.2019 14:27:54",
+1327;90;Gesetz;Verständlichkeit;-1;164;"23.01.2019 14:27:55",
+1328;90;Gesetz;Fairness;1;143;"23.01.2019 14:29:09",
+1329;90;Gesetz;Verständlichkeit;0;143;"23.01.2019 14:29:15",
+1330;90;Gesetz;Dafür/Dagegen;0;143;"23.01.2019 14:29:16",
+1331;88;Gesetz;Fairness;1;1;"24.01.2019 10:37:26",
+1332;88;Gesetz;Dafür/Dagegen;1;1;"24.01.2019 10:37:28",
+1333;88;Gesetz;Verständlichkeit;1;1;"24.01.2019 10:37:29",
+1334;88;Gesetz;Fairness;1;2;"24.01.2019 10:38:18",
+1335;88;Gesetz;Dafür/Dagegen;1;2;"24.01.2019 10:38:20",
+1336;88;Gesetz;Verständlichkeit;1;2;"24.01.2019 10:38:21",
+1337;88;Gesetz;Fairness;1;3;"24.01.2019 10:43:08",
+1338;88;Gesetz;Dafür/Dagegen;1;3;"24.01.2019 10:43:08",
+1339;88;Gesetz;Verständlichkeit;1;3;"24.01.2019 10:43:14",
+134;81;Gesetz;Verständlichkeit;1;158;"05.12.2018 21:13:52",
+1340;88;Gesetz;Fairness;0;4;"24.01.2019 10:43:28",
+1341;88;Gesetz;Dafür/Dagegen;1;4;"24.01.2019 10:43:28",
+1342;88;Gesetz;Verständlichkeit;1;4;"24.01.2019 10:43:29",
+1343;88;Gesetz;Fairness;1;5;"24.01.2019 10:44:08",
+1344;88;Gesetz;Dafür/Dagegen;1;5;"24.01.2019 10:44:08",
+1345;88;Gesetz;Verständlichkeit;1;5;"24.01.2019 10:44:09",
+1346;88;Gesetz;Fairness;1;6;"24.01.2019 10:44:28",
+1347;88;Gesetz;Dafür/Dagegen;1;6;"24.01.2019 10:44:28",
+1348;88;Gesetz;Verständlichkeit;1;6;"24.01.2019 10:44:29",
+1349;88;Gesetz;Fairness;1;7;"24.01.2019 10:44:47",
+135;81;Gesetz;Fairness;1;10;"05.12.2018 21:15:16",
+1350;88;Gesetz;Dafür/Dagegen;1;7;"24.01.2019 10:44:47",
+1351;88;Gesetz;Verständlichkeit;1;7;"24.01.2019 10:44:48",
+1352;88;Gesetz;Fairness;1;8;"24.01.2019 10:44:59",
+1353;88;Gesetz;Dafür/Dagegen;1;8;"24.01.2019 10:44:59",
+1354;88;Gesetz;Verständlichkeit;1;8;"24.01.2019 10:44:59",
+1355;88;Gesetz;Fairness;1;9;"24.01.2019 10:45:32",
+1356;88;Gesetz;Dafür/Dagegen;1;9;"24.01.2019 10:45:32",
+1357;88;Gesetz;Verständlichkeit;1;9;"24.01.2019 10:45:33",
+1358;88;Änderungsvorschlag;Fairness;1;42;"24.01.2019 10:57:15",
+1359;88;Änderungsvorschlag;Dafür/Dagegen;1;42;"24.01.2019 10:57:16",
+136;81;Gesetz;Dafür/Dagegen;1;10;"05.12.2018 21:15:17",
+1360;88;Änderungsvorschlag;Verständlichkeit;1;42;"24.01.2019 10:57:17",
+1361;88;Gesetz;Fairness;1;158;"24.01.2019 10:57:34",
+1362;88;Gesetz;Dafür/Dagegen;1;158;"24.01.2019 10:57:34",
+1363;88;Gesetz;Verständlichkeit;1;158;"24.01.2019 10:57:35",
+1364;88;Gesetz;Fairness;1;10;"24.01.2019 10:57:51",
+1365;88;Gesetz;Dafür/Dagegen;1;10;"24.01.2019 10:57:51",
+1366;88;Gesetz;Verständlichkeit;1;10;"24.01.2019 10:57:52",
+1367;88;Gesetz;Fairness;1;12;"24.01.2019 10:58:47",
+1368;88;Gesetz;Dafür/Dagegen;1;12;"24.01.2019 10:58:48",
+1369;88;Gesetz;Verständlichkeit;1;12;"24.01.2019 10:58:48",
+137;81;Gesetz;Verständlichkeit;1;10;"05.12.2018 21:15:18",
+1370;88;Gesetz;Fairness;1;13;"24.01.2019 10:59:11",
+1371;88;Gesetz;Dafür/Dagegen;1;13;"24.01.2019 10:59:12",
+1372;88;Gesetz;Verständlichkeit;1;13;"24.01.2019 10:59:12",
+1373;88;Gesetz;Fairness;1;14;"24.01.2019 11:02:07",
+1374;88;Gesetz;Dafür/Dagegen;1;14;"24.01.2019 11:02:07",
+1375;88;Gesetz;Verständlichkeit;1;14;"24.01.2019 11:02:08",
+1376;88;Gesetz;Fairness;1;15;"24.01.2019 11:09:09",
+1377;88;Gesetz;Dafür/Dagegen;1;15;"24.01.2019 11:09:10",
+1378;88;Gesetz;Verständlichkeit;1;15;"24.01.2019 11:09:11",
+1379;88;Gesetz;Fairness;1;17;"24.01.2019 11:09:36",
+138;81;Gesetz;Fairness;1;12;"05.12.2018 21:15:58",
+1380;88;Gesetz;Dafür/Dagegen;1;17;"24.01.2019 11:09:36",
+1381;88;Gesetz;Verständlichkeit;1;17;"24.01.2019 11:09:37",
+1382;88;Gesetz;Fairness;1;18;"24.01.2019 11:09:54",
+1383;88;Gesetz;Dafür/Dagegen;1;18;"24.01.2019 11:09:55",
+1384;88;Gesetz;Verständlichkeit;1;18;"24.01.2019 11:09:55",
+1385;88;Gesetz;Fairness;1;20;"24.01.2019 11:11:11",
+1386;88;Gesetz;Dafür/Dagegen;0;20;"24.01.2019 11:11:13",
+1387;88;Gesetz;Verständlichkeit;-1;20;"24.01.2019 11:11:14",
+1388;88;Gesetz;Fairness;1;24;"24.01.2019 11:17:21",
+1389;88;Gesetz;Dafür/Dagegen;1;24;"24.01.2019 11:17:22",
+139;81;Gesetz;Dafür/Dagegen;1;12;"05.12.2018 21:15:59",
+1390;88;Gesetz;Verständlichkeit;1;24;"24.01.2019 11:17:22",
+1391;88;Gesetz;Fairness;1;23;"24.01.2019 11:17:30",
+1392;88;Gesetz;Dafür/Dagegen;1;23;"24.01.2019 11:17:30",
+1393;88;Gesetz;Verständlichkeit;1;23;"24.01.2019 11:17:31",
+1394;88;Gesetz;Fairness;1;26;"24.01.2019 11:28:08",
+1395;88;Gesetz;Dafür/Dagegen;1;26;"24.01.2019 11:28:08",
+1396;88;Gesetz;Verständlichkeit;1;26;"24.01.2019 11:28:09",
+1397;88;Gesetz;Fairness;1;28;"24.01.2019 11:28:47",
+1398;88;Gesetz;Dafür/Dagegen;1;28;"24.01.2019 11:28:47",
+1399;88;Gesetz;Verständlichkeit;1;28;"24.01.2019 11:28:48",
+14;59;Gesetz;Dafür/Dagegen;0;31;"17.11.2018 16:36:48",
+140;81;Gesetz;Verständlichkeit;1;12;"05.12.2018 21:15:59",
+1400;88;Gesetz;Fairness;1;29;"24.01.2019 11:29:00",
+1401;88;Gesetz;Dafür/Dagegen;1;29;"24.01.2019 11:29:01",
+1402;88;Gesetz;Verständlichkeit;1;29;"24.01.2019 11:29:01",
+1403;88;Gesetz;Fairness;1;31;"24.01.2019 11:29:12",
+1404;88;Gesetz;Dafür/Dagegen;1;31;"24.01.2019 11:29:12",
+1405;88;Gesetz;Verständlichkeit;1;31;"24.01.2019 11:29:13",
+1406;88;Gesetz;Fairness;1;33;"24.01.2019 11:29:24",
+1407;88;Gesetz;Dafür/Dagegen;1;33;"24.01.2019 11:29:25",
+1408;88;Gesetz;Verständlichkeit;1;33;"24.01.2019 11:29:25",
+1409;88;Gesetz;Fairness;1;34;"24.01.2019 11:30:30",
+141;81;Gesetz;Fairness;1;13;"05.12.2018 21:16:49",
+1410;88;Gesetz;Dafür/Dagegen;1;34;"24.01.2019 11:30:30",
+1411;88;Gesetz;Verständlichkeit;1;34;"24.01.2019 11:30:31",
+1412;88;Gesetz;Fairness;1;36;"24.01.2019 11:31:07",
+1413;88;Gesetz;Dafür/Dagegen;0;36;"24.01.2019 11:31:07",
+1414;88;Gesetz;Verständlichkeit;-1;36;"24.01.2019 11:31:08",
+1415;88;Gesetz;Fairness;1;164;"24.01.2019 11:33:57",
+1416;88;Gesetz;Dafür/Dagegen;1;164;"24.01.2019 11:33:59",
+1417;88;Gesetz;Verständlichkeit;1;164;"24.01.2019 11:33:59",
+1418;88;Gesetz;Fairness;1;37;"24.01.2019 11:34:11",
+1419;88;Gesetz;Dafür/Dagegen;1;37;"24.01.2019 11:34:11",
+142;81;Gesetz;Dafür/Dagegen;0;13;"05.12.2018 21:16:50",
+1420;88;Gesetz;Verständlichkeit;1;37;"24.01.2019 11:34:12",
+1421;88;Gesetz;Fairness;1;39;"24.01.2019 11:34:31",
+1422;88;Gesetz;Dafür/Dagegen;1;39;"24.01.2019 11:34:31",
+1423;88;Gesetz;Verständlichkeit;1;39;"24.01.2019 11:34:32",
+1424;88;Gesetz;Fairness;1;42;"24.01.2019 11:34:51",
+1425;88;Gesetz;Dafür/Dagegen;1;42;"24.01.2019 11:34:51",
+1426;88;Gesetz;Verständlichkeit;1;42;"24.01.2019 11:34:52",
+1427;88;Gesetz;Fairness;1;44;"24.01.2019 11:36:32",
+1428;88;Gesetz;Dafür/Dagegen;1;44;"24.01.2019 11:36:32",
+1429;88;Gesetz;Verständlichkeit;1;44;"24.01.2019 11:36:33",
+143;81;Gesetz;Verständlichkeit;0;13;"05.12.2018 21:16:51",
+1430;88;Gesetz;Fairness;1;129;"24.01.2019 11:37:00",
+1431;88;Gesetz;Dafür/Dagegen;1;129;"24.01.2019 11:37:01",
+1432;88;Gesetz;Verständlichkeit;1;129;"24.01.2019 11:37:02",
+1433;88;Gesetz;Fairness;1;45;"24.01.2019 11:37:37",
+1434;88;Gesetz;Dafür/Dagegen;1;45;"24.01.2019 11:37:38",
+1435;88;Gesetz;Verständlichkeit;1;45;"24.01.2019 11:37:38",
+1436;88;Gesetz;Fairness;1;130;"24.01.2019 11:37:48",
+1437;88;Gesetz;Dafür/Dagegen;1;130;"24.01.2019 11:37:48",
+1438;88;Gesetz;Verständlichkeit;1;130;"24.01.2019 11:37:49",
+1439;88;Gesetz;Fairness;1;47;"24.01.2019 11:38:19",
+144;81;Gesetz;Fairness;1;14;"05.12.2018 21:18:15",
+1440;88;Gesetz;Dafür/Dagegen;1;47;"24.01.2019 11:38:19",
+1441;88;Gesetz;Verständlichkeit;1;47;"24.01.2019 11:38:20",
+1442;88;Gesetz;Fairness;1;48;"24.01.2019 11:40:28",
+1443;88;Gesetz;Dafür/Dagegen;1;48;"24.01.2019 11:40:28",
+1444;88;Gesetz;Verständlichkeit;1;48;"24.01.2019 11:40:29",
+1445;88;Gesetz;Fairness;-1;50;"24.01.2019 11:50:14",
+1446;88;Gesetz;Dafür/Dagegen;0;50;"24.01.2019 11:50:18",
+1447;88;Gesetz;Verständlichkeit;0;50;"24.01.2019 11:50:18",
+1448;88;Gesetz;Fairness;1;53;"24.01.2019 11:51:12",
+1449;88;Gesetz;Dafür/Dagegen;1;53;"24.01.2019 11:51:13",
+145;81;Gesetz;Dafür/Dagegen;1;14;"05.12.2018 21:18:16",
+1450;88;Gesetz;Verständlichkeit;1;53;"24.01.2019 11:51:13",
+1451;88;Gesetz;Fairness;1;54;"24.01.2019 11:51:34",
+1452;88;Gesetz;Dafür/Dagegen;1;54;"24.01.2019 11:51:35",
+1453;88;Gesetz;Verständlichkeit;1;54;"24.01.2019 11:51:35",
+1454;88;Gesetz;Fairness;1;131;"24.01.2019 11:51:51",
+1455;88;Gesetz;Dafür/Dagegen;1;131;"24.01.2019 11:51:52",
+1456;88;Gesetz;Verständlichkeit;1;131;"24.01.2019 11:51:52",
+1457;88;Gesetz;Fairness;1;55;"24.01.2019 11:52:32",
+1458;88;Gesetz;Dafür/Dagegen;1;55;"24.01.2019 11:52:32",
+1459;88;Gesetz;Verständlichkeit;1;55;"24.01.2019 11:52:33",
+146;81;Gesetz;Verständlichkeit;1;14;"05.12.2018 21:18:17",
+1460;88;Gesetz;Fairness;1;57;"24.01.2019 11:52:52",
+1461;88;Gesetz;Dafür/Dagegen;1;57;"24.01.2019 11:52:53",
+1462;88;Gesetz;Verständlichkeit;1;57;"24.01.2019 11:52:53",
+1463;88;Gesetz;Fairness;1;59;"24.01.2019 11:55:50",
+1464;88;Gesetz;Dafür/Dagegen;1;59;"24.01.2019 11:55:50",
+1465;88;Gesetz;Verständlichkeit;1;59;"24.01.2019 11:55:51",
+1466;88;Gesetz;Fairness;1;60;"24.01.2019 11:56:07",
+1467;88;Gesetz;Dafür/Dagegen;1;60;"24.01.2019 11:56:08",
+1468;88;Gesetz;Verständlichkeit;1;60;"24.01.2019 11:56:08",
+1469;88;Gesetz;Fairness;1;62;"24.01.2019 16:35:39",
+147;81;Gesetz;Fairness;1;15;"05.12.2018 21:21:00",
+1470;88;Gesetz;Dafür/Dagegen;1;62;"24.01.2019 16:35:40",
+1471;88;Gesetz;Verständlichkeit;1;62;"24.01.2019 16:35:40",
+1472;88;Gesetz;Fairness;1;101;"24.01.2019 16:36:14",
+1473;88;Gesetz;Dafür/Dagegen;1;101;"24.01.2019 16:36:14",
+1474;88;Gesetz;Verständlichkeit;1;101;"24.01.2019 16:36:15",
+1475;88;Gesetz;Fairness;1;102;"24.01.2019 16:40:42",
+1476;88;Gesetz;Dafür/Dagegen;1;102;"24.01.2019 16:40:42",
+1477;88;Gesetz;Verständlichkeit;1;102;"24.01.2019 16:40:43",
+1478;88;Gesetz;Fairness;1;103;"24.01.2019 16:41:07",
+1479;88;Gesetz;Dafür/Dagegen;1;103;"24.01.2019 16:41:07",
+148;81;Gesetz;Dafür/Dagegen;1;15;"05.12.2018 21:21:01",
+1480;88;Gesetz;Verständlichkeit;1;103;"24.01.2019 16:41:08",
+1481;88;Gesetz;Dafür/Dagegen;1;104;"24.01.2019 16:44:42",
+1482;88;Gesetz;Verständlichkeit;1;104;"24.01.2019 16:44:42",
+1483;88;Gesetz;Fairness;1;104;"24.01.2019 16:44:43",
+1484;88;Gesetz;Fairness;1;106;"24.01.2019 16:44:59",
+1485;88;Gesetz;Dafür/Dagegen;1;106;"24.01.2019 16:45:00",
+1486;88;Gesetz;Verständlichkeit;1;106;"24.01.2019 16:45:00",
+1487;88;Gesetz;Fairness;1;107;"24.01.2019 16:45:12",
+1488;88;Gesetz;Dafür/Dagegen;1;107;"24.01.2019 16:45:12",
+1489;88;Gesetz;Verständlichkeit;1;107;"24.01.2019 16:45:13",
+149;81;Gesetz;Verständlichkeit;1;15;"05.12.2018 21:21:03",
+1490;88;Gesetz;Fairness;1;109;"24.01.2019 16:45:22",
+1491;88;Gesetz;Dafür/Dagegen;1;109;"24.01.2019 16:45:23",
+1492;88;Gesetz;Verständlichkeit;1;109;"24.01.2019 16:45:23",
+1493;88;Gesetz;Fairness;1;110;"24.01.2019 16:45:29",
+1494;88;Gesetz;Dafür/Dagegen;1;110;"24.01.2019 16:45:30",
+1495;88;Gesetz;Verständlichkeit;1;110;"24.01.2019 16:45:31",
+1496;88;Gesetz;Fairness;0;114;"24.01.2019 16:50:25",
+1497;88;Gesetz;Dafür/Dagegen;1;114;"24.01.2019 16:50:25",
+1498;88;Gesetz;Verständlichkeit;1;114;"24.01.2019 16:50:26",
+1499;88;Gesetz;Fairness;1;132;"24.01.2019 16:51:19",
+15;59;Gesetz;Verständlichkeit;0;31;"17.11.2018 16:36:50",
+150;81;Gesetz;Fairness;-1;17;"05.12.2018 21:24:35",
+1500;88;Gesetz;Dafür/Dagegen;1;132;"24.01.2019 16:51:20",
+1501;88;Gesetz;Verständlichkeit;1;132;"24.01.2019 16:51:20",
+1503;88;Gesetz;Dafür/Dagegen;1;133;"24.01.2019 16:52:03",
+1504;88;Gesetz;Verständlichkeit;1;133;"24.01.2019 16:52:03",
+1505;88;Gesetz;Fairness;0;133;"24.01.2019 16:52:04",
+1506;88;Gesetz;Fairness;1;115;"24.01.2019 16:52:10",
+1507;88;Gesetz;Dafür/Dagegen;1;115;"24.01.2019 16:52:11",
+1508;88;Gesetz;Verständlichkeit;1;115;"24.01.2019 16:52:11",
+1509;88;Gesetz;Fairness;1;117;"24.01.2019 16:52:35",
+151;81;Gesetz;Dafür/Dagegen;0;17;"05.12.2018 21:24:36",
+1510;88;Gesetz;Dafür/Dagegen;1;117;"24.01.2019 16:52:36",
+1511;88;Gesetz;Verständlichkeit;1;117;"24.01.2019 16:52:36",
+1512;88;Gesetz;Fairness;1;119;"24.01.2019 16:52:50",
+1513;88;Gesetz;Dafür/Dagegen;1;119;"24.01.2019 16:52:50",
+1514;88;Gesetz;Verständlichkeit;1;119;"24.01.2019 16:52:50",
+1515;88;Gesetz;Fairness;1;121;"24.01.2019 16:53:06",
+1516;88;Gesetz;Dafür/Dagegen;1;121;"24.01.2019 16:53:07",
+1517;88;Gesetz;Verständlichkeit;1;121;"24.01.2019 16:53:07",
+1518;88;Gesetz;Fairness;1;123;"24.01.2019 16:53:44",
+1519;88;Gesetz;Dafür/Dagegen;1;123;"24.01.2019 16:53:44",
+152;81;Gesetz;Verständlichkeit;0;17;"05.12.2018 21:24:37",
+1520;88;Gesetz;Verständlichkeit;1;123;"24.01.2019 16:53:45",
+1521;88;Gesetz;Fairness;1;125;"24.01.2019 16:53:57",
+1522;88;Gesetz;Dafür/Dagegen;1;125;"24.01.2019 16:53:58",
+1523;88;Gesetz;Verständlichkeit;1;125;"24.01.2019 16:53:58",
+1524;88;Änderungsvorschlag;Fairness;1;9;"24.01.2019 16:55:41",
+1525;88;Änderungsvorschlag;Dafür/Dagegen;1;9;"24.01.2019 16:55:42",
+1526;88;Änderungsvorschlag;Verständlichkeit;1;9;"24.01.2019 16:55:42",
+1527;88;Gesetz;Fairness;1;134;"24.01.2019 16:56:17",
+1528;88;Gesetz;Dafür/Dagegen;1;134;"24.01.2019 16:56:18",
+1529;88;Gesetz;Verständlichkeit;1;134;"24.01.2019 16:56:18",
+1530;88;Gesetz;Fairness;1;135;"24.01.2019 16:56:34",
+1531;88;Gesetz;Dafür/Dagegen;1;135;"24.01.2019 16:56:34",
+1532;88;Gesetz;Verständlichkeit;1;135;"24.01.2019 16:56:35",
+1533;88;Gesetz;Fairness;1;136;"24.01.2019 16:56:56",
+1534;88;Gesetz;Dafür/Dagegen;1;136;"24.01.2019 16:56:56",
+1535;88;Gesetz;Verständlichkeit;1;136;"24.01.2019 16:56:57",
+1536;88;Gesetz;Verständlichkeit;1;137;"24.01.2019 16:57:04",
+1537;88;Gesetz;Dafür/Dagegen;1;137;"24.01.2019 16:57:04",
+1538;88;Gesetz;Fairness;1;137;"24.01.2019 16:57:05",
+1539;88;Gesetz;Fairness;1;138;"24.01.2019 16:57:21",
+154;81;Gesetz;Fairness;0;18;"05.12.2018 21:26:11",
+1540;88;Gesetz;Dafür/Dagegen;1;138;"24.01.2019 16:57:21",
+1541;88;Gesetz;Verständlichkeit;1;138;"24.01.2019 16:57:22",
+1542;101;Gesetz;Fairness;1;158;"26.01.2019 10:31:43",
+1543;101;Gesetz;Dafür/Dagegen;0;158;"26.01.2019 10:31:50",
+1544;101;Gesetz;Verständlichkeit;-1;158;"26.01.2019 10:31:59",
+1545;101;Gesetz;Dafür/Dagegen;1;51;"26.01.2019 10:51:25",
+1546;101;Gesetz;Verständlichkeit;1;51;"26.01.2019 10:51:26",
+1547;101;Gesetz;Fairness;1;51;"26.01.2019 10:51:26",
+1548;101;Gesetz;Fairness;1;101;"26.01.2019 11:05:12",
+1549;101;Gesetz;Dafür/Dagegen;-1;101;"26.01.2019 11:05:16",
+155;81;Gesetz;Dafür/Dagegen;1;18;"05.12.2018 21:26:13",
+1550;101;Gesetz;Verständlichkeit;-1;101;"26.01.2019 11:05:20",
+1551;102;Gesetz;Fairness;1;1;"26.01.2019 18:14:44",
+1552;102;Gesetz;Dafür/Dagegen;0;1;"26.01.2019 18:14:50",
+1553;102;Gesetz;Verständlichkeit;1;1;"26.01.2019 18:14:50",
+1554;102;Änderungsvorschlag;Fairness;1;32;"26.01.2019 18:14:58",
+1555;102;Änderungsvorschlag;Dafür/Dagegen;1;32;"26.01.2019 18:14:59",
+1556;102;Änderungsvorschlag;Verständlichkeit;1;32;"26.01.2019 18:14:59",
+1557;102;Gesetz;Fairness;1;2;"26.01.2019 18:20:09",
+1558;102;Gesetz;Dafür/Dagegen;1;2;"26.01.2019 18:20:09",
+1559;102;Gesetz;Verständlichkeit;1;2;"26.01.2019 18:20:10",
+156;81;Gesetz;Verständlichkeit;1;18;"05.12.2018 21:26:14",
+1560;102;Gesetz;Fairness;0;3;"26.01.2019 18:21:28",
+1561;102;Gesetz;Dafür/Dagegen;1;3;"26.01.2019 18:21:29",
+1562;102;Gesetz;Verständlichkeit;1;3;"26.01.2019 18:21:31",
+1563;102;Gesetz;Fairness;1;4;"27.01.2019 16:05:41",
+1564;102;Gesetz;Dafür/Dagegen;1;4;"27.01.2019 16:05:42",
+1565;102;Gesetz;Verständlichkeit;1;4;"27.01.2019 16:05:42",
+1566;102;Gesetz;Fairness;-1;5;"27.01.2019 16:07:16",
+1567;102;Gesetz;Verständlichkeit;0;5;"27.01.2019 16:07:18",
+1568;102;Gesetz;Dafür/Dagegen;0;5;"27.01.2019 16:07:20",
+1569;102;Gesetz;Fairness;1;6;"27.01.2019 16:12:31",
+157;81;Gesetz;Dafür/Dagegen;-1;20;"05.12.2018 21:32:25",
+1570;102;Gesetz;Verständlichkeit;1;6;"27.01.2019 16:13:03",
+1571;102;Gesetz;Fairness;-1;7;"27.01.2019 16:14:24",
+1572;102;Gesetz;Dafür/Dagegen;0;7;"27.01.2019 16:14:26",
+1573;102;Gesetz;Verständlichkeit;0;7;"27.01.2019 16:14:27",
+1574;102;Gesetz;Fairness;-1;12;"27.01.2019 17:47:47",
+1575;102;Gesetz;Fairness;1;13;"27.01.2019 17:50:02",
+1576;102;Gesetz;Dafür/Dagegen;-1;13;"27.01.2019 17:50:02",
+1577;102;Änderungsvorschlag;Fairness;1;40;"27.01.2019 18:36:30",
+1578;102;Änderungsvorschlag;Dafür/Dagegen;1;40;"27.01.2019 18:36:30",
+1579;102;Änderungsvorschlag;Verständlichkeit;1;40;"27.01.2019 18:36:30",
+158;81;Gesetz;Verständlichkeit;-1;20;"05.12.2018 21:32:26",
+1580;103;Gesetz;Fairness;1;5;"28.01.2019 13:58:40",
+1581;103;Gesetz;Dafür/Dagegen;0;5;"28.01.2019 13:58:42",
+1582;103;Gesetz;Verständlichkeit;1;5;"28.01.2019 13:58:45",
+1583;104;Gesetz;Dafür/Dagegen;1;72;"28.01.2019 15:16:03",
+1584;104;Gesetz;Fairness;1;71;"28.01.2019 15:20:18",
+1585;104;Gesetz;Dafür/Dagegen;-1;70;"28.01.2019 15:22:04",
+1586;104;Gesetz;Fairness;1;65;"28.01.2019 15:24:02",
+1587;105;Gesetz;Dafür/Dagegen;1;101;"06.02.2019 15:08:52",
+1588;105;Gesetz;Fairness;0;101;"06.02.2019 15:08:54",
+159;81;Gesetz;Fairness;0;20;"05.12.2018 21:32:29",
+1590;105;Gesetz;Verständlichkeit;1;101;"06.02.2019 15:08:56",
+1592;105;Gesetz;Dafür/Dagegen;0;94;"06.02.2019 15:17:44",
+1595;105;Gesetz;Verständlichkeit;0;94;"06.02.2019 15:17:47",
+1596;105;Gesetz;Fairness;0;94;"06.02.2019 15:17:51",
+1597;106;Gesetz;Fairness;1;1;"19.02.2019 12:36:45",
+1598;106;Gesetz;Fairness;1;2;"19.02.2019 12:37:01",
+1599;106;Gesetz;Dafür/Dagegen;1;2;"19.02.2019 12:37:05",
+160;81;Gesetz;Fairness;1;23;"05.12.2018 21:33:49",
+1600;106;Gesetz;Verständlichkeit;1;2;"19.02.2019 12:37:05",
+1601;106;Gesetz;Dafür/Dagegen;1;1;"19.02.2019 12:37:19",
+1602;106;Gesetz;Verständlichkeit;1;1;"19.02.2019 12:37:19",
+1603;106;Gesetz;Fairness;1;3;"19.02.2019 12:37:30",
+1604;106;Gesetz;Dafür/Dagegen;1;3;"19.02.2019 12:37:30",
+1605;106;Gesetz;Verständlichkeit;1;3;"19.02.2019 12:37:30",
+1606;106;Gesetz;Fairness;1;4;"19.02.2019 12:37:38",
+1607;106;Gesetz;Dafür/Dagegen;1;4;"19.02.2019 12:37:38",
+1608;106;Gesetz;Verständlichkeit;1;4;"19.02.2019 12:37:39",
+1609;106;Gesetz;Fairness;1;5;"19.02.2019 12:37:45",
+161;81;Gesetz;Dafür/Dagegen;1;23;"05.12.2018 21:33:50",
+1610;106;Gesetz;Dafür/Dagegen;1;5;"19.02.2019 12:37:45",
+1611;106;Gesetz;Verständlichkeit;1;5;"19.02.2019 12:37:46",
+1612;106;Gesetz;Fairness;1;6;"19.02.2019 12:37:58",
+1613;106;Gesetz;Dafür/Dagegen;1;6;"19.02.2019 12:37:58",
+1614;106;Gesetz;Verständlichkeit;1;6;"19.02.2019 12:37:58",
+1615;106;Gesetz;Fairness;1;7;"19.02.2019 12:38:04",
+1616;106;Gesetz;Dafür/Dagegen;1;7;"19.02.2019 12:38:05",
+1617;106;Gesetz;Verständlichkeit;1;7;"19.02.2019 12:38:05",
+1618;106;Gesetz;Fairness;1;8;"19.02.2019 12:38:17",
+1619;106;Gesetz;Dafür/Dagegen;1;8;"19.02.2019 12:38:17",
+162;81;Gesetz;Verständlichkeit;1;23;"05.12.2018 21:33:51",
+1620;106;Gesetz;Verständlichkeit;1;8;"19.02.2019 12:38:18",
+1621;106;Gesetz;Fairness;1;9;"19.02.2019 12:38:29",
+1622;106;Gesetz;Dafür/Dagegen;1;9;"19.02.2019 12:38:30",
+1623;106;Gesetz;Verständlichkeit;1;9;"19.02.2019 12:38:30",
+1624;106;Gesetz;Fairness;1;158;"19.02.2019 12:38:41",
+1625;106;Gesetz;Dafür/Dagegen;1;158;"19.02.2019 12:38:41",
+1626;106;Gesetz;Verständlichkeit;1;158;"19.02.2019 12:38:41",
+1627;106;Gesetz;Fairness;1;10;"19.02.2019 12:38:53",
+1628;106;Gesetz;Dafür/Dagegen;1;10;"19.02.2019 12:38:54",
+1629;106;Gesetz;Verständlichkeit;1;10;"19.02.2019 12:38:54",
+163;81;Gesetz;Fairness;1;24;"05.12.2018 21:34:09",
+1630;106;Gesetz;Fairness;1;12;"19.02.2019 12:39:54",
+1631;106;Gesetz;Dafür/Dagegen;1;12;"19.02.2019 12:39:54",
+1632;106;Gesetz;Verständlichkeit;1;12;"19.02.2019 12:39:55",
+1633;106;Gesetz;Fairness;1;13;"19.02.2019 12:40:04",
+1634;106;Gesetz;Dafür/Dagegen;1;13;"19.02.2019 12:40:05",
+1635;106;Gesetz;Verständlichkeit;1;13;"19.02.2019 12:40:06",
+1636;106;Gesetz;Fairness;1;14;"19.02.2019 12:40:10",
+1637;106;Gesetz;Dafür/Dagegen;1;14;"19.02.2019 12:40:10",
+1638;106;Gesetz;Verständlichkeit;1;14;"19.02.2019 12:40:11",
+1639;106;Änderungsvorschlag;Dafür/Dagegen;1;43;"19.02.2019 12:40:15",
+164;81;Gesetz;Dafür/Dagegen;1;24;"05.12.2018 21:34:10",
+1640;106;Änderungsvorschlag;Fairness;1;43;"19.02.2019 12:40:16",
+1641;106;Änderungsvorschlag;Verständlichkeit;1;43;"19.02.2019 12:40:16",
+1642;106;Gesetz;Fairness;1;15;"19.02.2019 12:40:21",
+1643;106;Gesetz;Dafür/Dagegen;1;15;"19.02.2019 12:40:21",
+1644;106;Gesetz;Verständlichkeit;1;15;"19.02.2019 12:40:21",
+1645;106;Änderungsvorschlag;Fairness;1;40;"19.02.2019 12:40:41",
+1646;106;Änderungsvorschlag;Dafür/Dagegen;1;40;"19.02.2019 12:40:41",
+1647;106;Änderungsvorschlag;Verständlichkeit;1;40;"19.02.2019 12:40:42",
+1648;106;Gesetz;Fairness;1;17;"19.02.2019 12:42:08",
+1649;106;Gesetz;Dafür/Dagegen;1;17;"19.02.2019 12:42:09",
+165;81;Gesetz;Verständlichkeit;1;24;"05.12.2018 21:34:11",
+1650;106;Gesetz;Verständlichkeit;1;17;"19.02.2019 12:42:09",
+1652;106;Änderungsvorschlag;Fairness;1;39;"19.02.2019 12:42:14",
+1653;106;Änderungsvorschlag;Dafür/Dagegen;1;39;"19.02.2019 12:42:15",
+1654;106;Änderungsvorschlag;Verständlichkeit;1;39;"19.02.2019 12:42:15",
+1655;106;Gesetz;Fairness;1;18;"19.02.2019 12:42:19",
+1656;106;Gesetz;Dafür/Dagegen;1;18;"19.02.2019 12:42:19",
+1657;106;Gesetz;Verständlichkeit;1;18;"19.02.2019 12:42:19",
+1658;106;Gesetz;Fairness;1;20;"19.02.2019 12:42:25",
+1659;106;Gesetz;Dafür/Dagegen;1;20;"19.02.2019 12:42:26",
+166;81;Gesetz;Fairness;-1;26;"05.12.2018 21:36:28",
+1660;106;Gesetz;Verständlichkeit;1;20;"19.02.2019 12:42:26",
+1661;106;Änderungsvorschlag;Dafür/Dagegen;1;44;"19.02.2019 12:42:34",
+1662;106;Änderungsvorschlag;Fairness;1;44;"19.02.2019 12:42:35",
+1663;106;Änderungsvorschlag;Verständlichkeit;1;44;"19.02.2019 12:42:35",
+1664;106;Änderungsvorschlag;Fairness;1;7;"19.02.2019 12:42:43",
+1665;106;Änderungsvorschlag;Dafür/Dagegen;1;7;"19.02.2019 12:42:44",
+1666;106;Änderungsvorschlag;Verständlichkeit;1;7;"19.02.2019 12:42:44",
+1668;106;Gesetz;Verständlichkeit;1;23;"19.02.2019 12:42:47",
+1669;106;Gesetz;Dafür/Dagegen;1;23;"19.02.2019 12:42:47",
+167;81;Gesetz;Dafür/Dagegen;0;26;"05.12.2018 21:36:30",
+1670;106;Gesetz;Fairness;0;23;"19.02.2019 12:42:47",
+1671;106;Änderungsvorschlag;Fairness;0;45;"19.02.2019 12:42:52",
+1672;106;Änderungsvorschlag;Dafür/Dagegen;0;45;"19.02.2019 12:42:53",
+1673;106;Änderungsvorschlag;Verständlichkeit;0;45;"19.02.2019 12:42:53",
+1674;106;Gesetz;Fairness;1;24;"19.02.2019 12:42:57",
+1675;106;Gesetz;Dafür/Dagegen;0;24;"19.02.2019 12:42:58",
+1676;106;Gesetz;Verständlichkeit;0;24;"19.02.2019 12:42:58",
+1677;106;Gesetz;Fairness;1;26;"19.02.2019 12:43:04",
+1678;106;Gesetz;Dafür/Dagegen;0;26;"19.02.2019 12:43:04",
+1679;106;Gesetz;Verständlichkeit;-1;26;"19.02.2019 12:43:04",
+168;81;Gesetz;Verständlichkeit;0;26;"05.12.2018 21:36:31",
+1681;106;Änderungsvorschlag;Fairness;-1;3;"19.02.2019 12:43:10",
+1683;106;Änderungsvorschlag;Dafür/Dagegen;1;3;"19.02.2019 12:43:11",
+1684;106;Änderungsvorschlag;Verständlichkeit;0;3;"19.02.2019 12:43:11",
+1685;106;Gesetz;Fairness;0;28;"19.02.2019 12:43:19",
+1686;106;Gesetz;Dafür/Dagegen;1;28;"19.02.2019 12:43:20",
+1687;106;Gesetz;Verständlichkeit;0;28;"19.02.2019 12:43:20",
+1688;106;Gesetz;Fairness;0;29;"19.02.2019 12:43:27",
+1689;106;Gesetz;Dafür/Dagegen;-1;29;"19.02.2019 12:43:27",
+169;81;Gesetz;Fairness;1;28;"05.12.2018 21:37:10",
+1690;106;Gesetz;Verständlichkeit;1;29;"19.02.2019 12:43:28",
+1691;106;Gesetz;Fairness;0;31;"19.02.2019 12:43:32",
+1692;106;Gesetz;Dafür/Dagegen;0;31;"19.02.2019 12:43:32",
+1693;106;Gesetz;Verständlichkeit;0;31;"19.02.2019 12:43:33",
+1694;106;Gesetz;Fairness;0;33;"19.02.2019 12:43:42",
+1695;106;Gesetz;Dafür/Dagegen;-1;33;"19.02.2019 12:43:43",
+1696;106;Gesetz;Verständlichkeit;-1;33;"19.02.2019 12:43:43",
+1697;106;Gesetz;Fairness;0;34;"19.02.2019 12:44:02",
+1698;106;Gesetz;Dafür/Dagegen;1;34;"19.02.2019 12:44:02",
+1699;106;Gesetz;Verständlichkeit;0;34;"19.02.2019 12:44:02",
+17;66;Gesetz;Dafür/Dagegen;1;17;"18.11.2018 15:56:59",
+170;81;Gesetz;Dafür/Dagegen;1;28;"05.12.2018 21:37:10",
+1700;106;Gesetz;Fairness;-1;36;"19.02.2019 12:44:05",
+1701;106;Gesetz;Dafür/Dagegen;0;36;"19.02.2019 12:44:06",
+1702;106;Gesetz;Verständlichkeit;1;36;"19.02.2019 12:44:06",
+1703;106;Änderungsvorschlag;Verständlichkeit;0;46;"19.02.2019 12:44:10",
+1704;106;Änderungsvorschlag;Dafür/Dagegen;1;46;"19.02.2019 12:44:10",
+1705;106;Änderungsvorschlag;Fairness;-1;46;"19.02.2019 12:44:11",
+1707;106;Gesetz;Dafür/Dagegen;1;164;"19.02.2019 12:44:15",
+1708;106;Gesetz;Fairness;0;164;"19.02.2019 12:44:15",
+1709;106;Gesetz;Verständlichkeit;0;164;"19.02.2019 12:44:15",
+171;81;Gesetz;Verständlichkeit;1;28;"05.12.2018 21:37:11",
+1710;106;Änderungsvorschlag;Fairness;0;20;"19.02.2019 12:44:22",
+1711;106;Änderungsvorschlag;Dafür/Dagegen;0;20;"19.02.2019 12:44:22",
+1712;106;Änderungsvorschlag;Verständlichkeit;0;20;"19.02.2019 12:44:23",
+1713;106;Änderungsvorschlag;Fairness;-1;19;"19.02.2019 12:44:37",
+1714;106;Änderungsvorschlag;Dafür/Dagegen;-1;19;"19.02.2019 12:44:37",
+1715;106;Änderungsvorschlag;Verständlichkeit;1;19;"19.02.2019 12:44:38",
+1716;106;Änderungsvorschlag;Dafür/Dagegen;1;21;"19.02.2019 12:44:43",
+1717;106;Änderungsvorschlag;Fairness;0;21;"19.02.2019 12:44:44",
+1718;106;Änderungsvorschlag;Verständlichkeit;-1;21;"19.02.2019 12:44:44",
+1719;106;Gesetz;Fairness;0;37;"19.02.2019 12:44:48",
+1720;106;Gesetz;Dafür/Dagegen;1;37;"19.02.2019 12:44:48",
+1721;106;Gesetz;Verständlichkeit;0;37;"19.02.2019 12:44:49",
+1722;106;Gesetz;Fairness;0;39;"19.02.2019 12:44:52",
+1723;106;Gesetz;Dafür/Dagegen;-1;39;"19.02.2019 12:44:53",
+1724;106;Gesetz;Verständlichkeit;1;39;"19.02.2019 12:44:53",
+1725;106;Gesetz;Fairness;0;42;"19.02.2019 12:44:56",
+1726;106;Gesetz;Dafür/Dagegen;1;42;"19.02.2019 12:44:57",
+1727;106;Gesetz;Verständlichkeit;0;42;"19.02.2019 12:44:57",
+1728;106;Änderungsvorschlag;Fairness;0;52;"19.02.2019 12:45:02",
+1729;106;Änderungsvorschlag;Dafür/Dagegen;-1;52;"19.02.2019 12:45:02",
+1730;106;Änderungsvorschlag;Verständlichkeit;-1;52;"19.02.2019 12:45:05",
+1731;106;Änderungsvorschlag;Fairness;0;33;"19.02.2019 12:45:10",
+1732;106;Änderungsvorschlag;Dafür/Dagegen;0;33;"19.02.2019 12:45:11",
+1733;106;Änderungsvorschlag;Verständlichkeit;0;33;"19.02.2019 12:45:11",
+1734;106;Gesetz;Fairness;0;44;"19.02.2019 12:45:15",
+1735;106;Gesetz;Dafür/Dagegen;-1;44;"19.02.2019 12:45:15",
+1736;106;Gesetz;Verständlichkeit;1;44;"19.02.2019 12:45:16",
+1737;106;Gesetz;Fairness;0;129;"19.02.2019 12:45:23",
+1738;106;Gesetz;Dafür/Dagegen;0;129;"19.02.2019 12:45:23",
+1739;106;Gesetz;Verständlichkeit;0;129;"19.02.2019 12:45:24",
+1740;106;Gesetz;Dafür/Dagegen;1;45;"19.02.2019 12:45:31",
+1741;106;Gesetz;Fairness;-1;45;"19.02.2019 12:45:32",
+1742;106;Gesetz;Verständlichkeit;-1;45;"19.02.2019 12:45:32",
+1743;106;Gesetz;Fairness;0;130;"19.02.2019 12:45:35",
+1744;106;Gesetz;Dafür/Dagegen;1;130;"19.02.2019 12:45:35",
+1745;106;Gesetz;Verständlichkeit;-1;130;"19.02.2019 12:45:36",
+1746;106;Gesetz;Verständlichkeit;0;47;"19.02.2019 12:45:39",
+1747;106;Gesetz;Dafür/Dagegen;-1;47;"19.02.2019 12:45:39",
+1748;106;Gesetz;Fairness;1;47;"19.02.2019 12:45:39",
+1749;106;Gesetz;Fairness;1;48;"19.02.2019 12:45:50",
+1750;106;Gesetz;Dafür/Dagegen;-1;48;"19.02.2019 12:45:50",
+1751;106;Gesetz;Verständlichkeit;1;48;"19.02.2019 12:45:55",
+1752;106;Gesetz;Fairness;0;50;"19.02.2019 12:47:02",
+1753;106;Gesetz;Dafür/Dagegen;1;50;"19.02.2019 12:47:03",
+1754;106;Gesetz;Verständlichkeit;1;50;"19.02.2019 12:47:03",
+1755;106;Gesetz;Fairness;1;51;"19.02.2019 12:47:38",
+1756;106;Gesetz;Dafür/Dagegen;0;51;"19.02.2019 12:47:38",
+1757;106;Gesetz;Verständlichkeit;-1;51;"19.02.2019 12:47:39",
+1758;106;Änderungsvorschlag;Fairness;1;56;"19.02.2019 12:47:46",
+1759;106;Änderungsvorschlag;Dafür/Dagegen;0;56;"19.02.2019 12:47:46",
+176;81;Gesetz;Fairness;1;29;"05.12.2018 21:45:29",
+1760;106;Änderungsvorschlag;Verständlichkeit;0;56;"19.02.2019 12:47:47",
+1761;106;Änderungsvorschlag;Dafür/Dagegen;-1;27;"19.02.2019 12:47:52",
+1762;106;Änderungsvorschlag;Verständlichkeit;0;27;"19.02.2019 12:47:53",
+1763;106;Änderungsvorschlag;Fairness;1;27;"19.02.2019 12:47:53",
+1764;106;Gesetz;Fairness;1;53;"19.02.2019 12:47:57",
+1765;106;Gesetz;Dafür/Dagegen;0;53;"19.02.2019 12:47:57",
+1766;106;Gesetz;Verständlichkeit;0;53;"19.02.2019 12:47:58",
+1767;106;Gesetz;Fairness;1;54;"19.02.2019 12:48:01",
+1768;106;Gesetz;Dafür/Dagegen;1;54;"19.02.2019 12:48:01",
+1769;106;Gesetz;Verständlichkeit;1;54;"19.02.2019 12:48:02",
+177;81;Gesetz;Dafür/Dagegen;1;29;"05.12.2018 21:45:30",
+1770;106;Gesetz;Dafür/Dagegen;0;131;"19.02.2019 12:48:04",
+1771;106;Gesetz;Fairness;-1;131;"19.02.2019 12:48:05",
+1772;106;Gesetz;Verständlichkeit;-1;131;"19.02.2019 12:48:05",
+1773;106;Gesetz;Verständlichkeit;1;55;"19.02.2019 12:48:09",
+1774;106;Gesetz;Dafür/Dagegen;0;55;"19.02.2019 12:48:09",
+1775;106;Gesetz;Fairness;-1;55;"19.02.2019 12:48:10",
+1776;106;Änderungsvorschlag;Fairness;1;50;"19.02.2019 12:48:36",
+1777;106;Änderungsvorschlag;Dafür/Dagegen;0;50;"19.02.2019 12:48:37",
+1778;106;Änderungsvorschlag;Verständlichkeit;0;50;"19.02.2019 12:48:37",
+1779;106;Änderungsvorschlag;Verständlichkeit;0;41;"19.02.2019 12:48:50",
+178;81;Gesetz;Verständlichkeit;1;29;"05.12.2018 21:45:31",
+1780;106;Änderungsvorschlag;Fairness;0;41;"19.02.2019 12:48:50",
+1781;106;Änderungsvorschlag;Dafür/Dagegen;0;41;"19.02.2019 12:48:51",
+1783;106;Änderungsvorschlag;Fairness;0;34;"19.02.2019 12:48:57",
+1784;106;Änderungsvorschlag;Dafür/Dagegen;1;34;"19.02.2019 12:48:58",
+1785;106;Änderungsvorschlag;Verständlichkeit;0;34;"19.02.2019 12:48:59",
+1786;106;Änderungsvorschlag;Dafür/Dagegen;1;8;"19.02.2019 12:49:05",
+1787;106;Änderungsvorschlag;Fairness;-1;8;"19.02.2019 12:49:05",
+1788;106;Änderungsvorschlag;Verständlichkeit;-1;8;"19.02.2019 12:49:05",
+1789;106;Gesetz;Fairness;1;57;"19.02.2019 12:49:21",
+1790;106;Gesetz;Dafür/Dagegen;0;57;"19.02.2019 12:49:23",
+1791;106;Gesetz;Verständlichkeit;0;57;"19.02.2019 12:49:24",
+1793;106;Gesetz;Fairness;-1;59;"19.02.2019 12:49:35",
+1794;106;Gesetz;Dafür/Dagegen;0;59;"19.02.2019 12:49:35",
+1795;106;Gesetz;Verständlichkeit;1;59;"19.02.2019 12:49:36",
+1796;106;Gesetz;Fairness;1;60;"19.02.2019 12:49:41",
+1797;106;Gesetz;Dafür/Dagegen;1;60;"19.02.2019 12:49:41",
+1798;106;Gesetz;Verständlichkeit;1;60;"19.02.2019 12:49:41",
+1799;106;Gesetz;Fairness;0;62;"19.02.2019 12:49:48",
+18;66;Gesetz;Verständlichkeit;1;17;"18.11.2018 15:57:00",
+1800;106;Gesetz;Dafür/Dagegen;1;62;"19.02.2019 12:49:48",
+1801;106;Gesetz;Verständlichkeit;0;62;"19.02.2019 12:49:48",
+1802;106;Gesetz;Fairness;-1;101;"19.02.2019 12:49:54",
+1804;106;Gesetz;Dafür/Dagegen;1;101;"19.02.2019 12:49:54",
+1805;106;Gesetz;Verständlichkeit;1;101;"19.02.2019 12:49:55",
+1806;106;Änderungsvorschlag;Dafür/Dagegen;1;57;"19.02.2019 12:50:09",
+1807;106;Änderungsvorschlag;Fairness;0;57;"19.02.2019 12:50:09",
+1808;106;Änderungsvorschlag;Verständlichkeit;0;57;"19.02.2019 12:50:10",
+1809;106;Änderungsvorschlag;Dafür/Dagegen;1;47;"19.02.2019 12:50:18",
+181;81;Gesetz;Fairness;1;31;"05.12.2018 21:47:30",
+1810;106;Änderungsvorschlag;Verständlichkeit;0;47;"19.02.2019 12:50:18",
+1811;106;Änderungsvorschlag;Fairness;0;47;"19.02.2019 12:50:19",
+1812;106;Änderungsvorschlag;Dafür/Dagegen;0;31;"19.02.2019 12:50:28",
+1813;106;Änderungsvorschlag;Fairness;-1;31;"19.02.2019 12:50:28",
+1814;106;Änderungsvorschlag;Verständlichkeit;-1;31;"19.02.2019 12:50:28",
+1815;106;Gesetz;Dafür/Dagegen;1;102;"19.02.2019 12:50:39",
+1816;106;Gesetz;Fairness;-1;102;"19.02.2019 12:50:39",
+1817;106;Gesetz;Verständlichkeit;0;102;"19.02.2019 12:50:40",
+1818;106;Gesetz;Fairness;1;103;"19.02.2019 12:50:43",
+1819;106;Gesetz;Dafür/Dagegen;1;103;"19.02.2019 12:50:43",
+182;81;Gesetz;Dafür/Dagegen;0;31;"05.12.2018 21:47:31",
+1820;106;Gesetz;Verständlichkeit;1;103;"19.02.2019 12:50:44",
+1821;106;Gesetz;Fairness;0;104;"19.02.2019 12:50:47",
+1822;106;Gesetz;Dafür/Dagegen;0;104;"19.02.2019 12:50:48",
+1823;106;Gesetz;Verständlichkeit;1;104;"19.02.2019 12:50:48",
+1824;106;Änderungsvorschlag;Fairness;0;48;"19.02.2019 12:50:53",
+1825;106;Änderungsvorschlag;Dafür/Dagegen;-1;48;"19.02.2019 12:50:53",
+1826;106;Änderungsvorschlag;Verständlichkeit;1;48;"19.02.2019 12:50:54",
+1827;106;Gesetz;Fairness;1;106;"19.02.2019 12:50:57",
+1828;106;Gesetz;Dafür/Dagegen;1;106;"19.02.2019 12:50:57",
+1829;106;Gesetz;Verständlichkeit;1;106;"19.02.2019 12:50:58",
+183;81;Gesetz;Verständlichkeit;0;31;"05.12.2018 21:47:32",
+1830;106;Gesetz;Fairness;0;107;"19.02.2019 12:51:01",
+1831;106;Gesetz;Dafür/Dagegen;1;107;"19.02.2019 12:51:02",
+1832;106;Gesetz;Verständlichkeit;0;107;"19.02.2019 12:51:02",
+1833;106;Gesetz;Fairness;0;109;"19.02.2019 12:51:06",
+1834;106;Gesetz;Dafür/Dagegen;1;109;"19.02.2019 12:51:06",
+1835;106;Gesetz;Verständlichkeit;0;109;"19.02.2019 12:51:06",
+1836;110;Gesetz;Fairness;1;158;"25.02.2019 17:24:42",
+1839;111;Gesetz;Fairness;1;43;"26.02.2019 20:01:47",
+184;81;Gesetz;Fairness;1;33;"05.12.2018 21:48:15",
+1840;111;Gesetz;Dafür/Dagegen;1;43;"26.02.2019 20:01:51",
+1841;111;Gesetz;Verständlichkeit;0;43;"26.02.2019 20:01:52",
+1842;111;Gesetz;Fairness;-1;122;"26.02.2019 20:07:39",
+1843;111;Gesetz;Dafür/Dagegen;0;122;"26.02.2019 20:08:42",
+1844;111;Gesetz;Verständlichkeit;0;122;"26.02.2019 20:08:43",
+1846;111;Gesetz;Dafür/Dagegen;-1;164;"26.02.2019 20:10:34",
+1847;111;Gesetz;Verständlichkeit;-1;164;"26.02.2019 20:10:35",
+1848;111;Gesetz;Fairness;-1;164;"26.02.2019 20:14:12",
+1849;111;Gesetz;Fairness;0;120;"26.02.2019 20:16:21",
+185;81;Gesetz;Dafür/Dagegen;0;33;"05.12.2018 21:48:16",
+1850;111;Gesetz;Dafür/Dagegen;-1;120;"26.02.2019 20:16:21",
+1851;111;Gesetz;Verständlichkeit;-1;120;"26.02.2019 20:16:23",
+1852;111;Gesetz;Fairness;1;76;"26.02.2019 20:20:22",
+1853;111;Gesetz;Dafür/Dagegen;1;76;"26.02.2019 20:20:22",
+1854;111;Gesetz;Verständlichkeit;1;76;"26.02.2019 20:20:23",
+1856;110;Gesetz;Dafür/Dagegen;0;112;"26.02.2019 20:28:37",
+1857;110;Gesetz;Fairness;0;112;"26.02.2019 20:28:51",
+1859;110;Gesetz;Verständlichkeit;1;112;"27.02.2019 08:46:49",
+186;81;Gesetz;Verständlichkeit;0;33;"05.12.2018 21:48:17",
+1860;110;Gesetz;Fairness;1;100;"27.02.2019 08:48:11",
+1861;110;Gesetz;Dafür/Dagegen;1;100;"27.02.2019 08:48:18",
+1862;110;Gesetz;Verständlichkeit;1;100;"27.02.2019 08:48:22",
+1863;110;Gesetz;Verständlichkeit;-1;158;"27.02.2019 09:13:48",
+1864;110;Gesetz;Dafür/Dagegen;0;158;"27.02.2019 09:13:56",
+1865;112;Gesetz;Fairness;1;120;"01.03.2019 10:32:22",
+1866;112;Gesetz;Dafür/Dagegen;0;120;"01.03.2019 10:32:26",
+1867;112;Gesetz;Verständlichkeit;0;120;"01.03.2019 10:32:27",
+1868;112;Gesetz;Fairness;1;70;"01.03.2019 10:38:37",
+1869;112;Gesetz;Verständlichkeit;1;70;"01.03.2019 10:38:39",
+187;79;Gesetz;Dafür/Dagegen;1;10;"07.12.2018 17:37:25",
+1870;112;Gesetz;Dafür/Dagegen;0;70;"01.03.2019 10:38:40",
+1871;112;Gesetz;Fairness;0;71;"01.03.2019 10:38:48",
+1872;112;Gesetz;Dafür/Dagegen;1;71;"01.03.2019 10:38:53",
+1873;112;Gesetz;Verständlichkeit;1;71;"01.03.2019 10:38:54",
+1874;112;Gesetz;Fairness;-1;69;"01.03.2019 10:39:14",
+1875;112;Gesetz;Dafür/Dagegen;0;69;"01.03.2019 10:39:21",
+1876;112;Gesetz;Verständlichkeit;0;69;"01.03.2019 10:39:22",
+1877;115;Gesetz;Fairness;1;158;"12.03.2019 12:29:58",
+1878;115;Gesetz;Dafür/Dagegen;1;158;"12.03.2019 12:29:58",
+188;79;Gesetz;Verständlichkeit;1;10;"07.12.2018 17:37:30",
+1881;115;Gesetz;Verständlichkeit;1;158;"12.03.2019 12:30:07",
+1882;115;Gesetz;Fairness;1;1;"12.03.2019 12:30:55",
+1883;115;Gesetz;Dafür/Dagegen;1;1;"12.03.2019 12:30:56",
+1884;115;Gesetz;Verständlichkeit;1;1;"12.03.2019 12:30:56",
+1885;115;Gesetz;Fairness;1;2;"12.03.2019 12:31:01",
+1886;115;Gesetz;Dafür/Dagegen;1;2;"12.03.2019 12:31:01",
+1887;115;Gesetz;Verständlichkeit;1;2;"12.03.2019 12:31:01",
+1888;115;Gesetz;Fairness;1;3;"12.03.2019 12:31:09",
+1889;115;Gesetz;Dafür/Dagegen;1;3;"12.03.2019 12:31:10",
+189;79;Gesetz;Fairness;0;10;"07.12.2018 17:37:32",
+1890;115;Gesetz;Verständlichkeit;1;3;"12.03.2019 12:31:10",
+1891;115;Gesetz;Fairness;1;4;"12.03.2019 12:31:11",
+1892;115;Gesetz;Dafür/Dagegen;1;4;"12.03.2019 12:31:12",
+1893;115;Gesetz;Verständlichkeit;1;4;"12.03.2019 12:31:12",
+1894;115;Gesetz;Fairness;-1;5;"12.03.2019 12:31:14",
+1895;115;Gesetz;Dafür/Dagegen;-1;5;"12.03.2019 12:31:14",
+1896;115;Gesetz;Verständlichkeit;-1;5;"12.03.2019 12:31:14",
+1897;115;Gesetz;Dafür/Dagegen;0;6;"12.03.2019 12:31:16",
+1898;115;Gesetz;Fairness;0;6;"12.03.2019 12:31:17",
+1899;115;Gesetz;Verständlichkeit;0;6;"12.03.2019 12:31:17",
+190;79;Gesetz;Fairness;1;158;"07.12.2018 17:42:51",
+1900;115;Gesetz;Fairness;1;7;"12.03.2019 12:31:19",
+1903;115;Gesetz;Verständlichkeit;-1;7;"12.03.2019 12:31:20",
+1904;115;Gesetz;Dafür/Dagegen;0;7;"12.03.2019 12:31:21",
+1905;115;Gesetz;Fairness;-1;8;"12.03.2019 12:31:23",
+1906;115;Gesetz;Dafür/Dagegen;0;8;"12.03.2019 12:31:24",
+1907;115;Gesetz;Verständlichkeit;1;8;"12.03.2019 12:31:24",
+1908;115;Gesetz;Fairness;1;10;"12.03.2019 12:31:42",
+1909;115;Gesetz;Dafür/Dagegen;0;10;"12.03.2019 12:31:42",
+1910;115;Gesetz;Verständlichkeit;1;10;"12.03.2019 12:31:42",
+1911;115;Gesetz;Dafür/Dagegen;1;12;"12.03.2019 12:31:45",
+1912;115;Gesetz;Fairness;-1;12;"12.03.2019 12:31:46",
+1913;115;Gesetz;Verständlichkeit;0;12;"12.03.2019 12:31:47",
+1914;115;Gesetz;Fairness;0;13;"12.03.2019 12:31:52",
+1915;115;Gesetz;Verständlichkeit;1;13;"12.03.2019 12:31:53",
+1916;115;Gesetz;Dafür/Dagegen;1;13;"12.03.2019 12:31:53",
+1917;115;Gesetz;Fairness;1;14;"12.03.2019 12:31:58",
+1918;115;Gesetz;Dafür/Dagegen;1;14;"12.03.2019 12:31:58",
+1919;115;Gesetz;Verständlichkeit;1;14;"12.03.2019 12:31:58",
+192;79;Gesetz;Dafür/Dagegen;-1;158;"07.12.2018 17:43:11",
+1920;115;Gesetz;Dafür/Dagegen;-1;15;"12.03.2019 12:32:01",
+1921;115;Gesetz;Fairness;-1;15;"12.03.2019 12:32:01",
+1922;115;Gesetz;Verständlichkeit;-1;15;"12.03.2019 12:32:02",
+1924;115;Gesetz;Dafür/Dagegen;1;17;"12.03.2019 12:32:05",
+1925;115;Gesetz;Verständlichkeit;1;17;"12.03.2019 12:32:06",
+1926;115;Gesetz;Fairness;-1;17;"12.03.2019 12:32:07",
+1927;115;Gesetz;Fairness;1;18;"12.03.2019 12:32:12",
+1928;115;Gesetz;Dafür/Dagegen;1;18;"12.03.2019 12:32:12",
+1929;115;Gesetz;Verständlichkeit;1;18;"12.03.2019 12:32:12",
+1930;115;Gesetz;Fairness;1;20;"12.03.2019 12:32:30",
+1931;115;Gesetz;Dafür/Dagegen;1;20;"12.03.2019 12:32:30",
+1932;115;Gesetz;Verständlichkeit;1;20;"12.03.2019 12:32:31",
+1933;115;Gesetz;Fairness;1;23;"12.03.2019 12:32:36",
+1934;115;Gesetz;Verständlichkeit;1;23;"12.03.2019 12:32:36",
+1935;115;Gesetz;Dafür/Dagegen;1;23;"12.03.2019 12:32:37",
+1937;115;Gesetz;Dafür/Dagegen;1;24;"12.03.2019 12:32:44",
+1938;115;Gesetz;Fairness;1;24;"12.03.2019 12:32:45",
+1939;115;Gesetz;Verständlichkeit;1;24;"12.03.2019 12:32:45",
+194;79;Gesetz;Verständlichkeit;0;158;"07.12.2018 17:46:39",
+1940;115;Gesetz;Fairness;1;26;"12.03.2019 12:32:48",
+1941;115;Gesetz;Dafür/Dagegen;0;26;"12.03.2019 12:32:48",
+1942;115;Gesetz;Verständlichkeit;0;26;"12.03.2019 12:32:48",
+1943;115;Gesetz;Dafür/Dagegen;0;28;"12.03.2019 12:32:51",
+1944;115;Gesetz;Verständlichkeit;1;28;"12.03.2019 12:32:52",
+1945;115;Gesetz;Fairness;-1;28;"12.03.2019 12:32:52",
+1946;115;Gesetz;Fairness;-1;29;"12.03.2019 12:32:54",
+1948;115;Gesetz;Dafür/Dagegen;0;29;"12.03.2019 12:32:56",
+1949;115;Gesetz;Verständlichkeit;-1;29;"12.03.2019 12:32:56",
+195;79;Gesetz;Fairness;0;110;"07.12.2018 17:58:45",
+1950;115;Gesetz;Fairness;1;31;"12.03.2019 12:32:58",
+1951;115;Gesetz;Dafür/Dagegen;-1;31;"12.03.2019 12:32:59",
+1952;115;Gesetz;Verständlichkeit;-1;31;"12.03.2019 12:33:01",
+1953;115;Gesetz;Fairness;1;33;"12.03.2019 12:33:03",
+1954;115;Gesetz;Dafür/Dagegen;1;33;"12.03.2019 12:33:04",
+1955;115;Gesetz;Verständlichkeit;1;33;"12.03.2019 12:33:04",
+1956;115;Gesetz;Verständlichkeit;1;34;"12.03.2019 12:33:08",
+1957;115;Gesetz;Dafür/Dagegen;1;34;"12.03.2019 12:33:08",
+1958;115;Gesetz;Fairness;1;34;"12.03.2019 12:33:08",
+1959;115;Gesetz;Fairness;0;36;"12.03.2019 12:33:10",
+196;79;Gesetz;Dafür/Dagegen;-1;110;"07.12.2018 17:58:45",
+1960;115;Gesetz;Dafür/Dagegen;0;36;"12.03.2019 12:33:11",
+1961;115;Gesetz;Verständlichkeit;0;36;"12.03.2019 12:33:11",
+1962;115;Gesetz;Fairness;1;164;"12.03.2019 12:33:14",
+1964;115;Gesetz;Dafür/Dagegen;-1;164;"12.03.2019 12:33:14",
+1965;115;Gesetz;Verständlichkeit;-1;164;"12.03.2019 12:33:15",
+1966;115;Gesetz;Fairness;1;37;"12.03.2019 12:33:48",
+1967;115;Gesetz;Dafür/Dagegen;1;37;"12.03.2019 12:33:49",
+1968;115;Gesetz;Verständlichkeit;1;37;"12.03.2019 12:33:49",
+1969;115;Gesetz;Fairness;0;39;"12.03.2019 12:33:52",
+197;79;Gesetz;Verständlichkeit;1;110;"07.12.2018 17:58:47",
+1970;115;Gesetz;Dafür/Dagegen;0;39;"12.03.2019 12:33:52",
+1971;115;Gesetz;Verständlichkeit;0;39;"12.03.2019 12:33:52",
+1972;115;Gesetz;Fairness;1;42;"12.03.2019 12:33:58",
+1973;115;Gesetz;Dafür/Dagegen;-1;42;"12.03.2019 12:33:58",
+1974;115;Gesetz;Verständlichkeit;1;42;"12.03.2019 12:33:59",
+1975;115;Gesetz;Fairness;1;44;"12.03.2019 12:34:05",
+1976;115;Gesetz;Dafür/Dagegen;1;44;"12.03.2019 12:34:05",
+1977;115;Gesetz;Verständlichkeit;1;44;"12.03.2019 12:34:06",
+1978;115;Gesetz;Verständlichkeit;0;129;"12.03.2019 12:34:10",
+1979;115;Gesetz;Dafür/Dagegen;-1;129;"12.03.2019 12:34:11",
+198;84;Gesetz;Fairness;1;31;"11.12.2018 11:55:50",
+1980;115;Gesetz;Fairness;-1;129;"12.03.2019 12:34:11",
+1981;115;Gesetz;Fairness;0;45;"12.03.2019 12:34:14",
+1982;115;Gesetz;Dafür/Dagegen;0;45;"12.03.2019 12:34:14",
+1983;115;Gesetz;Verständlichkeit;0;45;"12.03.2019 12:34:14",
+1984;115;Gesetz;Dafür/Dagegen;1;130;"12.03.2019 12:34:17",
+1985;115;Gesetz;Verständlichkeit;1;130;"12.03.2019 12:34:18",
+1986;115;Gesetz;Fairness;-1;130;"12.03.2019 12:34:19",
+1987;115;Gesetz;Fairness;1;47;"12.03.2019 12:34:21",
+1988;115;Gesetz;Dafür/Dagegen;1;47;"12.03.2019 12:34:22",
+1989;115;Gesetz;Verständlichkeit;1;47;"12.03.2019 12:34:22",
+199;84;Gesetz;Dafür/Dagegen;1;31;"11.12.2018 11:55:51",
+1990;115;Gesetz;Fairness;-1;48;"12.03.2019 12:34:24",
+1991;115;Gesetz;Dafür/Dagegen;-1;48;"12.03.2019 12:34:25",
+1992;115;Gesetz;Verständlichkeit;-1;48;"12.03.2019 12:34:25",
+1993;115;Gesetz;Fairness;0;50;"12.03.2019 12:34:27",
+1994;115;Gesetz;Dafür/Dagegen;0;50;"12.03.2019 12:34:28",
+1995;115;Gesetz;Verständlichkeit;0;50;"12.03.2019 12:34:28",
+1996;115;Gesetz;Fairness;1;51;"12.03.2019 12:34:30",
+1997;115;Gesetz;Dafür/Dagegen;1;51;"12.03.2019 12:34:30",
+1998;115;Gesetz;Verständlichkeit;1;51;"12.03.2019 12:34:31",
+1999;115;Gesetz;Fairness;-1;53;"12.03.2019 12:34:33",
+2;62;Gesetz;Verständlichkeit;1;5;"15.11.2018 18:12:36",
+200;84;Gesetz;Verständlichkeit;1;31;"11.12.2018 11:55:52",
+2000;115;Gesetz;Dafür/Dagegen;-1;53;"12.03.2019 12:34:33",
+2001;115;Gesetz;Verständlichkeit;-1;53;"12.03.2019 12:34:33",
+2002;115;Gesetz;Fairness;0;54;"12.03.2019 12:34:36",
+2003;115;Gesetz;Dafür/Dagegen;0;54;"12.03.2019 12:34:36",
+2004;115;Gesetz;Verständlichkeit;0;54;"12.03.2019 12:34:37",
+2005;115;Gesetz;Dafür/Dagegen;1;131;"12.03.2019 12:34:38",
+2006;115;Gesetz;Fairness;1;131;"12.03.2019 12:34:39",
+2007;115;Gesetz;Verständlichkeit;1;131;"12.03.2019 12:34:39",
+2008;115;Gesetz;Fairness;-1;55;"12.03.2019 12:34:41",
+2009;115;Gesetz;Dafür/Dagegen;-1;55;"12.03.2019 12:34:42",
+201;84;Gesetz;Fairness;1;158;"11.12.2018 11:58:14",
+2010;115;Gesetz;Verständlichkeit;-1;55;"12.03.2019 12:34:42",
+2011;115;Gesetz;Fairness;1;57;"12.03.2019 12:34:46",
+2012;115;Gesetz;Dafür/Dagegen;1;57;"12.03.2019 12:34:46",
+2013;115;Gesetz;Verständlichkeit;1;57;"12.03.2019 12:34:46",
+2014;115;Gesetz;Fairness;1;59;"12.03.2019 12:34:59",
+2016;115;Gesetz;Dafür/Dagegen;1;59;"12.03.2019 12:35:00",
+2017;115;Gesetz;Verständlichkeit;1;59;"12.03.2019 12:35:00",
+2018;115;Gesetz;Fairness;0;60;"12.03.2019 12:35:06",
+2019;115;Gesetz;Dafür/Dagegen;0;60;"12.03.2019 12:35:06",
+202;84;Gesetz;Dafür/Dagegen;1;158;"11.12.2018 11:58:26",
+2020;115;Gesetz;Verständlichkeit;0;60;"12.03.2019 12:35:07",
+2021;115;Gesetz;Dafür/Dagegen;1;62;"12.03.2019 12:35:20",
+2022;115;Gesetz;Fairness;1;62;"12.03.2019 12:35:20",
+2023;115;Gesetz;Verständlichkeit;1;62;"12.03.2019 12:35:20",
+2024;115;Gesetz;Fairness;-1;101;"12.03.2019 12:35:23",
+2025;115;Gesetz;Dafür/Dagegen;-1;101;"12.03.2019 12:35:23",
+2026;115;Gesetz;Verständlichkeit;-1;101;"12.03.2019 12:35:24",
+2027;115;Gesetz;Fairness;0;102;"12.03.2019 12:35:27",
+2028;115;Gesetz;Dafür/Dagegen;0;102;"12.03.2019 12:35:27",
+2029;115;Gesetz;Verständlichkeit;0;102;"12.03.2019 12:35:27",
+203;84;Gesetz;Verständlichkeit;0;158;"11.12.2018 11:58:29",
+2030;115;Gesetz;Fairness;1;103;"12.03.2019 12:35:30",
+2031;115;Gesetz;Dafür/Dagegen;0;103;"12.03.2019 12:35:30",
+2032;115;Gesetz;Verständlichkeit;-1;103;"12.03.2019 12:35:31",
+2033;115;Gesetz;Fairness;-1;104;"12.03.2019 12:35:33",
+2035;115;Gesetz;Dafür/Dagegen;-1;104;"12.03.2019 12:35:34",
+2036;115;Gesetz;Verständlichkeit;-1;104;"12.03.2019 12:35:34",
+2037;115;Gesetz;Fairness;0;106;"12.03.2019 12:35:37",
+2038;115;Gesetz;Dafür/Dagegen;0;106;"12.03.2019 12:35:37",
+2039;115;Gesetz;Verständlichkeit;0;106;"12.03.2019 12:35:37",
+204;84;Gesetz;Fairness;1;18;"11.12.2018 12:00:05",
+2040;115;Gesetz;Fairness;1;107;"12.03.2019 12:35:41",
+2041;115;Gesetz;Dafür/Dagegen;1;107;"12.03.2019 12:35:41",
+2042;115;Gesetz;Verständlichkeit;1;107;"12.03.2019 12:35:41",
+2043;115;Gesetz;Fairness;1;109;"12.03.2019 12:35:44",
+2045;115;Gesetz;Verständlichkeit;1;109;"12.03.2019 12:35:44",
+2046;115;Gesetz;Dafür/Dagegen;1;109;"12.03.2019 12:35:45",
+2047;115;Gesetz;Fairness;0;110;"12.03.2019 12:35:48",
+2048;115;Gesetz;Dafür/Dagegen;0;110;"12.03.2019 12:35:48",
+2049;115;Gesetz;Verständlichkeit;0;110;"12.03.2019 12:35:48",
+205;84;Gesetz;Dafür/Dagegen;1;18;"11.12.2018 12:00:06",
+2050;115;Gesetz;Fairness;-1;112;"12.03.2019 12:35:50",
+2051;115;Gesetz;Verständlichkeit;-1;112;"12.03.2019 12:35:51",
+2052;115;Gesetz;Dafür/Dagegen;-1;112;"12.03.2019 12:35:51",
+2054;115;Gesetz;Dafür/Dagegen;1;114;"12.03.2019 12:36:01",
+2055;115;Gesetz;Verständlichkeit;1;114;"12.03.2019 12:36:02",
+2056;115;Gesetz;Fairness;1;114;"12.03.2019 12:36:02",
+2057;115;Gesetz;Fairness;1;132;"12.03.2019 12:36:13",
+2058;115;Gesetz;Dafür/Dagegen;1;132;"12.03.2019 12:36:13",
+2059;115;Gesetz;Verständlichkeit;1;132;"12.03.2019 12:36:14",
+206;84;Gesetz;Verständlichkeit;1;18;"11.12.2018 12:00:06",
+2060;115;Gesetz;Fairness;0;133;"12.03.2019 12:36:18",
+2061;115;Gesetz;Dafür/Dagegen;0;133;"12.03.2019 12:36:18",
+2062;115;Gesetz;Verständlichkeit;0;133;"12.03.2019 12:36:19",
+2063;115;Gesetz;Fairness;1;115;"12.03.2019 12:36:48",
+2064;115;Gesetz;Dafür/Dagegen;1;115;"12.03.2019 12:36:48",
+2065;115;Gesetz;Verständlichkeit;1;115;"12.03.2019 12:36:49",
+2066;115;Gesetz;Fairness;1;117;"12.03.2019 12:36:55",
+2067;115;Gesetz;Dafür/Dagegen;1;117;"12.03.2019 12:36:55",
+2068;115;Gesetz;Verständlichkeit;1;117;"12.03.2019 12:36:56",
+2069;115;Gesetz;Fairness;1;119;"12.03.2019 12:36:59",
+207;84;Gesetz;Fairness;-1;39;"11.12.2018 12:03:05",
+2070;115;Gesetz;Verständlichkeit;0;119;"12.03.2019 12:36:59",
+2071;115;Gesetz;Dafür/Dagegen;-1;119;"12.03.2019 12:37:00",
+2072;115;Gesetz;Fairness;1;121;"12.03.2019 12:37:08",
+2073;115;Gesetz;Dafür/Dagegen;1;121;"12.03.2019 12:37:08",
+2074;115;Gesetz;Verständlichkeit;1;121;"12.03.2019 12:37:08",
+2075;115;Gesetz;Fairness;1;123;"12.03.2019 12:37:11",
+2076;115;Gesetz;Dafür/Dagegen;0;123;"12.03.2019 12:37:11",
+2077;115;Gesetz;Verständlichkeit;-1;123;"12.03.2019 12:37:12",
+2078;115;Gesetz;Dafür/Dagegen;1;125;"12.03.2019 12:37:14",
+2079;115;Gesetz;Fairness;1;125;"12.03.2019 12:37:15",
+208;84;Gesetz;Dafür/Dagegen;1;39;"11.12.2018 12:03:10",
+2080;115;Gesetz;Verständlichkeit;1;125;"12.03.2019 12:37:15",
+2081;115;Gesetz;Fairness;1;134;"12.03.2019 12:37:32",
+2082;115;Gesetz;Dafür/Dagegen;1;134;"12.03.2019 12:37:32",
+2083;115;Gesetz;Verständlichkeit;1;134;"12.03.2019 12:37:33",
+2084;115;Gesetz;Fairness;1;135;"12.03.2019 12:37:36",
+2085;115;Gesetz;Dafür/Dagegen;0;135;"12.03.2019 12:37:36",
+2086;115;Gesetz;Verständlichkeit;-1;135;"12.03.2019 12:37:36",
+2087;115;Gesetz;Fairness;1;136;"12.03.2019 12:37:39",
+2088;115;Gesetz;Dafür/Dagegen;1;136;"12.03.2019 12:37:39",
+2089;115;Gesetz;Verständlichkeit;1;136;"12.03.2019 12:37:39",
+209;84;Gesetz;Verständlichkeit;1;39;"11.12.2018 12:03:10",
+2090;115;Gesetz;Fairness;-1;137;"12.03.2019 12:37:42",
+2091;115;Gesetz;Verständlichkeit;-1;137;"12.03.2019 12:37:42",
+2092;115;Gesetz;Dafür/Dagegen;-1;137;"12.03.2019 12:37:42",
+2093;115;Gesetz;Fairness;0;138;"12.03.2019 12:37:44",
+2094;115;Gesetz;Dafür/Dagegen;0;138;"12.03.2019 12:37:44",
+2095;115;Gesetz;Verständlichkeit;0;138;"12.03.2019 12:37:45",
+2096;115;Gesetz;Fairness;1;127;"12.03.2019 12:37:48",
+2097;115;Gesetz;Dafür/Dagegen;1;127;"12.03.2019 12:37:48",
+2098;115;Gesetz;Verständlichkeit;1;127;"12.03.2019 12:37:49",
+2099;115;Gesetz;Fairness;0;140;"12.03.2019 12:37:52",
+21;66;Gesetz;Fairness;0;17;"18.11.2018 15:57:07",
+210;84;Gesetz;Fairness;1;48;"11.12.2018 12:03:54",
+2100;115;Gesetz;Dafür/Dagegen;0;140;"12.03.2019 12:37:52",
+2101;115;Gesetz;Verständlichkeit;-1;140;"12.03.2019 12:37:52",
+2102;115;Gesetz;Fairness;-1;128;"12.03.2019 12:37:55",
+2103;115;Gesetz;Dafür/Dagegen;0;128;"12.03.2019 12:37:55",
+2104;115;Gesetz;Verständlichkeit;1;128;"12.03.2019 12:37:56",
+2105;115;Gesetz;Fairness;1;139;"12.03.2019 12:37:58",
+2106;115;Gesetz;Dafür/Dagegen;1;139;"12.03.2019 12:37:58",
+2107;115;Gesetz;Verständlichkeit;1;139;"12.03.2019 12:37:59",
+2108;115;Gesetz;Fairness;1;126;"12.03.2019 12:38:06",
+2109;115;Gesetz;Verständlichkeit;1;126;"12.03.2019 12:38:06",
+211;84;Gesetz;Dafür/Dagegen;1;48;"11.12.2018 12:03:55",
+2110;115;Gesetz;Dafür/Dagegen;1;126;"12.03.2019 12:38:07",
+2111;115;Gesetz;Fairness;0;124;"12.03.2019 12:38:09",
+2112;115;Gesetz;Dafür/Dagegen;0;124;"12.03.2019 12:38:10",
+2113;115;Gesetz;Verständlichkeit;0;124;"12.03.2019 12:38:10",
+2114;115;Gesetz;Fairness;-1;122;"12.03.2019 12:38:13",
+2115;115;Gesetz;Dafür/Dagegen;-1;122;"12.03.2019 12:38:13",
+2116;115;Gesetz;Verständlichkeit;-1;122;"12.03.2019 12:38:13",
+2117;115;Gesetz;Fairness;1;120;"12.03.2019 12:38:15",
+2118;115;Gesetz;Verständlichkeit;1;120;"12.03.2019 12:38:16",
+2119;115;Gesetz;Dafür/Dagegen;1;120;"12.03.2019 12:38:16",
+212;84;Gesetz;Verständlichkeit;1;48;"11.12.2018 12:03:55",
+2120;115;Gesetz;Fairness;1;118;"12.03.2019 12:38:32",
+2121;115;Gesetz;Dafür/Dagegen;1;118;"12.03.2019 12:38:32",
+2122;115;Gesetz;Verständlichkeit;1;118;"12.03.2019 12:38:32",
+2123;115;Gesetz;Fairness;-1;116;"12.03.2019 12:38:37",
+2124;115;Gesetz;Dafür/Dagegen;-1;116;"12.03.2019 12:38:37",
+2125;115;Gesetz;Verständlichkeit;-1;116;"12.03.2019 12:38:37",
+2126;115;Gesetz;Fairness;0;113;"12.03.2019 12:38:42",
+2127;115;Gesetz;Dafür/Dagegen;0;113;"12.03.2019 12:38:42",
+2128;115;Gesetz;Verständlichkeit;0;113;"12.03.2019 12:38:43",
+2129;115;Gesetz;Fairness;1;111;"12.03.2019 12:38:45",
+213;84;Gesetz;Fairness;1;55;"11.12.2018 12:05:20",
+2130;115;Gesetz;Dafür/Dagegen;1;111;"12.03.2019 12:38:45",
+2131;115;Gesetz;Verständlichkeit;1;111;"12.03.2019 12:38:46",
+2132;115;Gesetz;Fairness;1;108;"12.03.2019 12:38:52",
+2133;115;Gesetz;Dafür/Dagegen;1;108;"12.03.2019 12:38:53",
+2134;115;Gesetz;Verständlichkeit;1;108;"12.03.2019 12:38:53",
+2135;115;Gesetz;Fairness;0;141;"12.03.2019 12:39:00",
+2136;115;Gesetz;Dafür/Dagegen;0;141;"12.03.2019 12:39:01",
+2137;115;Gesetz;Verständlichkeit;0;141;"12.03.2019 12:39:01",
+2138;115;Gesetz;Fairness;-1;142;"12.03.2019 12:39:03",
+2139;115;Gesetz;Dafür/Dagegen;-1;142;"12.03.2019 12:39:04",
+214;84;Gesetz;Dafür/Dagegen;1;55;"11.12.2018 12:05:21",
+2140;115;Gesetz;Verständlichkeit;-1;142;"12.03.2019 12:39:04",
+2141;115;Gesetz;Dafür/Dagegen;1;105;"12.03.2019 12:39:06",
+2142;115;Gesetz;Fairness;1;105;"12.03.2019 12:39:07",
+2143;115;Gesetz;Verständlichkeit;-1;105;"12.03.2019 12:39:07",
+2144;115;Gesetz;Fairness;0;100;"12.03.2019 12:39:10",
+2145;115;Gesetz;Verständlichkeit;0;100;"12.03.2019 12:39:10",
+2146;115;Gesetz;Dafür/Dagegen;1;100;"12.03.2019 12:39:11",
+2147;115;Gesetz;Dafür/Dagegen;1;143;"12.03.2019 12:39:14",
+2148;115;Gesetz;Verständlichkeit;-1;143;"12.03.2019 12:39:15",
+2149;115;Gesetz;Fairness;1;143;"12.03.2019 12:39:16",
+215;84;Gesetz;Verständlichkeit;1;55;"11.12.2018 12:05:22",
+2150;115;Gesetz;Fairness;0;99;"12.03.2019 12:39:29",
+2151;115;Gesetz;Verständlichkeit;1;99;"12.03.2019 12:39:29",
+2152;115;Gesetz;Dafür/Dagegen;1;99;"12.03.2019 12:39:30",
+2153;115;Gesetz;Fairness;-1;98;"12.03.2019 12:39:32",
+2154;115;Gesetz;Dafür/Dagegen;-1;98;"12.03.2019 12:39:32",
+2155;115;Gesetz;Verständlichkeit;-1;98;"12.03.2019 12:39:33",
+2156;115;Gesetz;Fairness;1;97;"12.03.2019 12:39:36",
+2157;115;Gesetz;Dafür/Dagegen;1;97;"12.03.2019 12:39:36",
+2158;115;Gesetz;Verständlichkeit;1;97;"12.03.2019 12:39:37",
+2159;115;Gesetz;Fairness;1;96;"12.03.2019 12:39:40",
+216;84;Gesetz;Fairness;1;101;"11.12.2018 12:05:56",
+2160;115;Gesetz;Dafür/Dagegen;1;96;"12.03.2019 12:39:40",
+2161;115;Gesetz;Verständlichkeit;1;96;"12.03.2019 12:39:41",
+2162;115;Gesetz;Fairness;0;95;"12.03.2019 12:39:46",
+2164;115;Gesetz;Dafür/Dagegen;-1;95;"12.03.2019 12:39:48",
+2165;115;Gesetz;Verständlichkeit;-1;95;"12.03.2019 12:39:48",
+2166;115;Gesetz;Fairness;1;94;"12.03.2019 12:39:52",
+2167;115;Gesetz;Dafür/Dagegen;1;94;"12.03.2019 12:39:52",
+2168;115;Gesetz;Verständlichkeit;1;94;"12.03.2019 12:39:53",
+2169;115;Gesetz;Fairness;1;93;"12.03.2019 12:39:58",
+217;84;Gesetz;Dafür/Dagegen;1;101;"11.12.2018 12:05:57",
+2170;115;Gesetz;Dafür/Dagegen;1;93;"12.03.2019 12:39:58",
+2171;115;Gesetz;Verständlichkeit;1;93;"12.03.2019 12:39:59",
+2172;115;Gesetz;Fairness;-1;91;"12.03.2019 12:40:02",
+2173;115;Gesetz;Dafür/Dagegen;-1;91;"12.03.2019 12:40:03",
+2174;115;Gesetz;Verständlichkeit;-1;91;"12.03.2019 12:40:03",
+2175;115;Gesetz;Fairness;0;90;"12.03.2019 12:40:07",
+2176;115;Gesetz;Dafür/Dagegen;0;90;"12.03.2019 12:40:08",
+2177;115;Gesetz;Verständlichkeit;1;90;"12.03.2019 12:40:08",
+2178;115;Gesetz;Fairness;0;89;"12.03.2019 12:41:12",
+2179;115;Gesetz;Dafür/Dagegen;1;89;"12.03.2019 12:41:13",
+218;84;Gesetz;Verständlichkeit;1;101;"11.12.2018 12:05:58",
+2180;115;Gesetz;Verständlichkeit;0;89;"12.03.2019 12:41:14",
+2181;115;Gesetz;Dafür/Dagegen;1;88;"12.03.2019 12:41:16",
+2182;115;Gesetz;Fairness;1;88;"12.03.2019 12:41:17",
+2183;115;Gesetz;Verständlichkeit;1;88;"12.03.2019 12:41:17",
+2184;115;Gesetz;Fairness;1;87;"12.03.2019 12:56:26",
+2185;115;Gesetz;Dafür/Dagegen;1;87;"12.03.2019 12:56:26",
+2186;115;Gesetz;Verständlichkeit;1;87;"12.03.2019 12:56:26",
+2187;115;Gesetz;Fairness;1;86;"12.03.2019 12:56:31",
+2188;115;Gesetz;Dafür/Dagegen;1;86;"12.03.2019 12:56:32",
+2189;115;Gesetz;Verständlichkeit;1;86;"12.03.2019 12:56:32",
+219;84;Gesetz;Fairness;1;155;"15.12.2018 13:45:17",
+2190;115;Gesetz;Fairness;1;85;"12.03.2019 12:56:43",
+2191;115;Gesetz;Dafür/Dagegen;1;85;"12.03.2019 12:56:44",
+22;67;Gesetz;Fairness;1;94;"18.11.2018 18:20:46",
+220;84;Gesetz;Dafür/Dagegen;1;155;"15.12.2018 13:45:18",
+221;84;Gesetz;Verständlichkeit;1;155;"15.12.2018 13:45:19",
+222;79;Gesetz;Verständlichkeit;1;5;"17.12.2018 14:54:47",
+223;79;Gesetz;Fairness;0;5;"17.12.2018 14:54:55",
+224;79;Gesetz;Dafür/Dagegen;1;5;"17.12.2018 14:54:58",
+225;79;Gesetz;Dafür/Dagegen;-1;33;"17.12.2018 14:57:34",
+226;79;Gesetz;Verständlichkeit;0;33;"17.12.2018 14:57:35",
+227;79;Gesetz;Fairness;0;33;"17.12.2018 14:57:37",
+228;79;Gesetz;Fairness;1;121;"17.12.2018 15:03:52",
+229;79;Gesetz;Dafür/Dagegen;1;121;"17.12.2018 15:03:52",
+230;79;Gesetz;Verständlichkeit;1;121;"17.12.2018 15:03:53",
+231;79;Gesetz;Fairness;1;67;"17.12.2018 15:06:35",
+232;79;Gesetz;Dafür/Dagegen;1;67;"17.12.2018 15:06:36",
+233;79;Gesetz;Verständlichkeit;1;67;"17.12.2018 15:06:37",
+235;79;Gesetz;Dafür/Dagegen;-1;9;"17.12.2018 15:08:09",
+236;79;Gesetz;Fairness;1;9;"17.12.2018 15:08:11",
+237;79;Gesetz;Verständlichkeit;0;9;"17.12.2018 15:08:19",
+238;88;Gesetz;Fairness;1;51;"25.12.2018 20:12:09",
+239;88;Gesetz;Dafür/Dagegen;1;51;"25.12.2018 20:12:11",
+24;67;Gesetz;Verständlichkeit;-1;94;"18.11.2018 18:21:24",
+240;88;Gesetz;Verständlichkeit;1;51;"25.12.2018 20:12:12",
+244;89;Gesetz;Fairness;1;118;"26.12.2018 19:00:50",
+245;89;Gesetz;Dafür/Dagegen;1;118;"26.12.2018 19:00:51",
+246;89;Gesetz;Verständlichkeit;1;118;"26.12.2018 19:00:55",
+247;89;Gesetz;Fairness;1;63;"26.12.2018 19:07:10",
+248;89;Gesetz;Dafür/Dagegen;1;63;"26.12.2018 19:07:12",
+249;89;Gesetz;Verständlichkeit;0;63;"26.12.2018 19:07:13",
+25;67;Gesetz;Dafür/Dagegen;0;94;"18.11.2018 18:21:26",
+250;89;Gesetz;Fairness;1;158;"26.12.2018 19:08:18",
+251;89;Gesetz;Dafür/Dagegen;1;158;"26.12.2018 19:08:19",
+252;89;Gesetz;Verständlichkeit;1;158;"26.12.2018 19:08:19",
+253;89;Gesetz;Fairness;-1;16;"26.12.2018 19:10:45",
+254;89;Gesetz;Dafür/Dagegen;0;16;"26.12.2018 19:10:47",
+255;89;Gesetz;Verständlichkeit;0;16;"26.12.2018 19:10:47",
+256;89;Gesetz;Fairness;1;120;"26.12.2018 19:13:00",
+257;89;Gesetz;Dafür/Dagegen;1;120;"26.12.2018 19:13:00",
+258;89;Gesetz;Verständlichkeit;1;120;"26.12.2018 19:13:00",
+259;89;Gesetz;Fairness;-1;117;"26.12.2018 19:15:20",
+26;68;Gesetz;Fairness;1;1;"18.11.2018 22:43:39",
+260;89;Gesetz;Dafür/Dagegen;0;117;"26.12.2018 19:15:20",
+261;89;Gesetz;Verständlichkeit;0;117;"26.12.2018 19:15:21",
+262;89;Gesetz;Fairness;1;1;"26.12.2018 19:15:42",
+263;89;Gesetz;Dafür/Dagegen;1;1;"26.12.2018 19:15:43",
+264;89;Gesetz;Verständlichkeit;1;1;"26.12.2018 19:15:43",
+265;89;Gesetz;Fairness;1;2;"26.12.2018 19:16:01",
+266;89;Gesetz;Dafür/Dagegen;1;2;"26.12.2018 19:16:01",
+267;89;Gesetz;Verständlichkeit;1;2;"26.12.2018 19:16:02",
+268;89;Gesetz;Fairness;1;3;"26.12.2018 19:16:25",
+269;89;Gesetz;Dafür/Dagegen;1;3;"26.12.2018 19:16:25",
+27;68;Gesetz;Dafür/Dagegen;1;5;"18.11.2018 22:44:53",
+270;89;Gesetz;Verständlichkeit;1;3;"26.12.2018 19:16:25",
+271;89;Gesetz;Fairness;1;4;"26.12.2018 19:17:14",
+272;89;Gesetz;Dafür/Dagegen;1;4;"26.12.2018 19:17:14",
+273;89;Gesetz;Verständlichkeit;1;4;"26.12.2018 19:17:15",
+274;89;Gesetz;Fairness;1;5;"26.12.2018 19:17:48",
+275;89;Gesetz;Dafür/Dagegen;0;5;"26.12.2018 19:18:01",
+276;89;Gesetz;Verständlichkeit;0;5;"26.12.2018 19:18:02",
+277;89;Gesetz;Fairness;1;6;"26.12.2018 19:18:37",
+278;89;Gesetz;Dafür/Dagegen;1;6;"26.12.2018 19:18:37",
+279;89;Gesetz;Verständlichkeit;1;6;"26.12.2018 19:18:37",
+28;68;Gesetz;Fairness;1;10;"18.11.2018 22:51:14",
+280;89;Gesetz;Fairness;-1;7;"26.12.2018 19:20:45",
+281;89;Gesetz;Dafür/Dagegen;0;7;"26.12.2018 19:20:46",
+282;89;Gesetz;Verständlichkeit;0;7;"26.12.2018 19:20:46",
+283;89;Gesetz;Fairness;1;8;"26.12.2018 19:21:11",
+284;89;Gesetz;Dafür/Dagegen;1;8;"26.12.2018 19:21:11",
+285;89;Gesetz;Verständlichkeit;1;8;"26.12.2018 19:21:12",
+286;89;Gesetz;Fairness;-1;9;"26.12.2018 19:25:43",
+287;89;Gesetz;Dafür/Dagegen;0;9;"26.12.2018 19:25:44",
+288;89;Gesetz;Verständlichkeit;0;9;"26.12.2018 19:25:44",
+289;89;Gesetz;Fairness;1;10;"26.12.2018 19:26:43",
+29;68;Gesetz;Dafür/Dagegen;1;12;"18.11.2018 22:53:06",
+290;89;Gesetz;Dafür/Dagegen;1;10;"26.12.2018 19:26:53",
+291;89;Gesetz;Verständlichkeit;1;10;"26.12.2018 19:26:53",
+292;92;Gesetz;Fairness;-1;26;"03.01.2019 00:02:14",
+293;92;Gesetz;Dafür/Dagegen;0;26;"03.01.2019 00:02:19",
+294;92;Gesetz;Verständlichkeit;0;26;"03.01.2019 00:02:21",
+295;92;Änderungsvorschlag;Verständlichkeit;1;3;"03.01.2019 00:02:51",
+296;92;Änderungsvorschlag;Dafür/Dagegen;0;3;"03.01.2019 00:02:52",
+297;92;Änderungsvorschlag;Fairness;1;3;"03.01.2019 00:02:54",
+298;92;Gesetz;Fairness;1;99;"03.01.2019 00:06:38",
+299;92;Gesetz;Dafür/Dagegen;-1;99;"03.01.2019 00:06:39",
+3;61;Gesetz;Verständlichkeit;1;99;"15.11.2018 18:19:12",
+30;68;Gesetz;Dafür/Dagegen;1;28;"18.11.2018 22:56:24",
+300;92;Gesetz;Verständlichkeit;-1;99;"03.01.2019 00:06:40",
+301;92;Änderungsvorschlag;Fairness;1;1;"03.01.2019 00:07:01",
+302;92;Änderungsvorschlag;Dafür/Dagegen;0;1;"03.01.2019 00:07:03",
+303;92;Änderungsvorschlag;Verständlichkeit;-1;1;"03.01.2019 00:07:05",
+304;78;Gesetz;Fairness;1;1;"03.01.2019 13:21:12",
+305;78;Gesetz;Verständlichkeit;0;1;"03.01.2019 13:21:22",
+306;78;Gesetz;Dafür/Dagegen;0;1;"03.01.2019 13:21:23",
+307;78;Gesetz;Fairness;0;2;"03.01.2019 13:21:52",
+308;78;Gesetz;Dafür/Dagegen;0;2;"03.01.2019 13:21:53",
+309;78;Gesetz;Verständlichkeit;0;2;"03.01.2019 13:21:55",
+31;68;Gesetz;Verständlichkeit;1;31;"18.11.2018 22:57:30",
+310;78;Gesetz;Fairness;1;3;"03.01.2019 13:22:14",
+311;78;Gesetz;Dafür/Dagegen;1;3;"03.01.2019 13:22:14",
+312;78;Gesetz;Verständlichkeit;1;3;"03.01.2019 13:22:15",
+313;78;Gesetz;Fairness;0;4;"03.01.2019 13:22:25",
+314;78;Gesetz;Dafür/Dagegen;0;4;"03.01.2019 13:22:26",
+315;78;Gesetz;Verständlichkeit;0;4;"03.01.2019 13:22:27",
+316;78;Gesetz;Fairness;1;5;"03.01.2019 13:22:54",
+317;78;Gesetz;Dafür/Dagegen;0;5;"03.01.2019 13:22:55",
+318;78;Gesetz;Verständlichkeit;0;5;"03.01.2019 13:22:56",
+319;78;Gesetz;Fairness;1;6;"03.01.2019 13:23:10",
+320;78;Gesetz;Dafür/Dagegen;0;6;"03.01.2019 13:23:13",
+323;78;Gesetz;Fairness;-1;16;"03.01.2019 13:25:36",
+324;78;Gesetz;Dafür/Dagegen;0;16;"03.01.2019 13:25:38",
+326;78;Gesetz;Verständlichkeit;0;16;"03.01.2019 13:29:46",
+327;78;Gesetz;Verständlichkeit;0;6;"03.01.2019 13:32:44",
+328;78;Gesetz;Fairness;1;7;"03.01.2019 13:33:22",
+329;78;Gesetz;Dafür/Dagegen;-1;7;"03.01.2019 13:33:25",
+33;69;Gesetz;Fairness;-1;7;"19.11.2018 11:13:59",
+330;78;Gesetz;Verständlichkeit;-1;7;"03.01.2019 13:33:25",
+331;78;Gesetz;Fairness;1;8;"03.01.2019 13:35:05",
+332;78;Gesetz;Dafür/Dagegen;1;8;"03.01.2019 13:35:06",
+333;78;Gesetz;Verständlichkeit;1;8;"03.01.2019 13:35:07",
+334;78;Gesetz;Fairness;0;9;"03.01.2019 13:35:32",
+335;78;Gesetz;Dafür/Dagegen;0;9;"03.01.2019 13:35:32",
+336;78;Gesetz;Verständlichkeit;0;9;"03.01.2019 13:35:33",
+337;78;Gesetz;Fairness;1;158;"03.01.2019 13:39:20",
+338;78;Gesetz;Dafür/Dagegen;1;158;"03.01.2019 13:39:22",
+339;78;Gesetz;Verständlichkeit;1;158;"03.01.2019 13:39:24",
+34;70;Gesetz;Fairness;1;1;"19.11.2018 17:14:01",
+340;78;Gesetz;Fairness;1;10;"03.01.2019 13:39:39",
+341;78;Gesetz;Dafür/Dagegen;1;10;"03.01.2019 13:39:41",
+342;78;Gesetz;Verständlichkeit;1;10;"03.01.2019 13:39:42",
+343;78;Gesetz;Fairness;0;12;"03.01.2019 13:40:22",
+344;78;Gesetz;Dafür/Dagegen;0;12;"03.01.2019 13:40:23",
+345;78;Gesetz;Verständlichkeit;0;12;"03.01.2019 13:40:24",
+346;78;Gesetz;Fairness;1;13;"03.01.2019 13:40:42",
+347;78;Gesetz;Dafür/Dagegen;1;13;"03.01.2019 13:40:44",
+348;78;Gesetz;Verständlichkeit;1;13;"03.01.2019 13:40:44",
+349;78;Gesetz;Fairness;1;14;"03.01.2019 13:41:11",
+35;70;Gesetz;Dafür/Dagegen;1;1;"19.11.2018 17:14:02",
+350;78;Gesetz;Dafür/Dagegen;1;14;"03.01.2019 13:41:11",
+351;78;Gesetz;Verständlichkeit;1;14;"03.01.2019 13:41:12",
+352;78;Änderungsvorschlag;Fairness;0;6;"03.01.2019 13:51:55",
+353;78;Änderungsvorschlag;Dafür/Dagegen;-1;6;"03.01.2019 13:51:57",
+354;78;Änderungsvorschlag;Verständlichkeit;-1;6;"03.01.2019 13:51:57",
+355;78;Gesetz;Fairness;0;15;"03.01.2019 13:54:50",
+356;78;Gesetz;Dafür/Dagegen;0;15;"03.01.2019 13:54:51",
+357;78;Gesetz;Verständlichkeit;0;15;"03.01.2019 13:54:52",
+358;78;Gesetz;Fairness;0;17;"03.01.2019 13:57:38",
+359;78;Gesetz;Dafür/Dagegen;0;17;"03.01.2019 13:57:38",
+36;70;Gesetz;Verständlichkeit;1;1;"19.11.2018 17:14:03",
+360;78;Gesetz;Verständlichkeit;0;17;"03.01.2019 13:57:39",
+361;78;Gesetz;Fairness;-1;23;"03.01.2019 13:58:04",
+362;78;Gesetz;Dafür/Dagegen;0;23;"03.01.2019 13:58:05",
+363;78;Gesetz;Verständlichkeit;0;23;"03.01.2019 13:58:06",
+365;78;Gesetz;Fairness;-1;18;"03.01.2019 13:59:45",
+366;78;Gesetz;Dafür/Dagegen;0;18;"03.01.2019 13:59:46",
+367;78;Gesetz;Verständlichkeit;0;18;"03.01.2019 13:59:46",
+368;78;Gesetz;Fairness;-1;20;"03.01.2019 14:07:29",
+369;78;Gesetz;Dafür/Dagegen;-1;20;"03.01.2019 14:07:29",
+37;74;Gesetz;Fairness;-1;5;"26.11.2018 17:04:46",
+370;78;Gesetz;Verständlichkeit;-1;20;"03.01.2019 14:07:30",
+371;78;Gesetz;Fairness;0;24;"03.01.2019 14:12:55",
+372;78;Gesetz;Dafür/Dagegen;0;24;"03.01.2019 14:12:55",
+373;78;Gesetz;Verständlichkeit;0;24;"03.01.2019 14:12:56",
+374;78;Gesetz;Fairness;-1;26;"03.01.2019 14:13:13",
+375;78;Gesetz;Dafür/Dagegen;0;26;"03.01.2019 14:13:13",
+376;78;Gesetz;Verständlichkeit;0;26;"03.01.2019 14:13:14",
+377;78;Gesetz;Fairness;0;28;"03.01.2019 14:13:52",
+378;78;Gesetz;Dafür/Dagegen;0;28;"03.01.2019 14:13:52",
+379;78;Gesetz;Verständlichkeit;0;28;"03.01.2019 14:13:53",
+380;78;Gesetz;Fairness;-1;29;"03.01.2019 14:14:14",
+381;78;Gesetz;Dafür/Dagegen;0;29;"03.01.2019 14:14:15",
+382;78;Gesetz;Verständlichkeit;0;29;"03.01.2019 14:14:15",
+383;78;Gesetz;Fairness;1;31;"03.01.2019 14:15:02",
+384;78;Gesetz;Dafür/Dagegen;1;31;"03.01.2019 14:15:05",
+385;78;Gesetz;Verständlichkeit;1;31;"03.01.2019 14:15:06",
+386;78;Gesetz;Fairness;1;33;"03.01.2019 14:15:22",
+387;78;Gesetz;Dafür/Dagegen;1;33;"03.01.2019 14:15:22",
+388;78;Gesetz;Verständlichkeit;1;33;"03.01.2019 14:15:23",
+389;78;Gesetz;Fairness;-1;34;"03.01.2019 14:15:39",
+390;78;Gesetz;Dafür/Dagegen;0;34;"03.01.2019 14:15:40",
+391;78;Gesetz;Verständlichkeit;0;34;"03.01.2019 14:15:40",
+392;78;Gesetz;Fairness;0;36;"03.01.2019 14:15:58",
+393;78;Gesetz;Dafür/Dagegen;0;36;"03.01.2019 14:15:58",
+394;78;Gesetz;Verständlichkeit;0;36;"03.01.2019 14:15:58",
+395;78;Gesetz;Fairness;0;164;"03.01.2019 14:17:13",
+396;78;Gesetz;Dafür/Dagegen;0;164;"03.01.2019 14:17:13",
+397;78;Gesetz;Verständlichkeit;0;164;"03.01.2019 14:17:14",
+398;78;Gesetz;Fairness;-1;37;"03.01.2019 14:17:26",
+399;78;Gesetz;Dafür/Dagegen;0;37;"03.01.2019 14:17:29",
+4;61;Gesetz;Dafür/Dagegen;1;99;"15.11.2018 18:19:12",
+40;74;Gesetz;Fairness;1;1;"26.11.2018 17:18:20",
+400;78;Gesetz;Verständlichkeit;0;37;"03.01.2019 14:17:30",
+401;78;Gesetz;Fairness;-1;39;"03.01.2019 14:18:05",
+404;78;Gesetz;Dafür/Dagegen;0;39;"03.01.2019 14:18:10",
+405;78;Gesetz;Verständlichkeit;0;39;"03.01.2019 14:18:11",
+407;78;Gesetz;Dafür/Dagegen;0;42;"03.01.2019 14:18:26",
+408;78;Gesetz;Verständlichkeit;0;42;"03.01.2019 14:18:26",
+409;78;Gesetz;Fairness;-1;42;"03.01.2019 14:18:27",
+41;74;Gesetz;Fairness;1;8;"26.11.2018 17:18:47",
+410;78;Gesetz;Fairness;-1;44;"03.01.2019 14:18:38",
+411;78;Gesetz;Dafür/Dagegen;0;44;"03.01.2019 14:18:38",
+412;78;Gesetz;Verständlichkeit;0;44;"03.01.2019 14:18:39",
+413;78;Gesetz;Fairness;-1;129;"03.01.2019 14:18:49",
+414;78;Gesetz;Dafür/Dagegen;0;129;"03.01.2019 14:18:49",
+415;78;Gesetz;Verständlichkeit;0;129;"03.01.2019 14:18:49",
+416;78;Gesetz;Fairness;0;45;"03.01.2019 14:19:08",
+417;78;Gesetz;Dafür/Dagegen;0;45;"03.01.2019 14:19:09",
+418;78;Gesetz;Verständlichkeit;0;45;"03.01.2019 14:19:09",
+419;78;Gesetz;Fairness;0;130;"03.01.2019 14:19:24",
+42;74;Gesetz;Fairness;1;9;"26.11.2018 17:19:19",
+420;78;Gesetz;Dafür/Dagegen;0;130;"03.01.2019 14:19:24",
+421;78;Gesetz;Verständlichkeit;0;130;"03.01.2019 14:19:24",
+422;78;Gesetz;Fairness;-1;47;"03.01.2019 14:19:44",
+423;78;Gesetz;Dafür/Dagegen;0;47;"03.01.2019 14:19:44",
+424;78;Gesetz;Verständlichkeit;0;47;"03.01.2019 14:19:45",
+425;78;Gesetz;Fairness;0;48;"03.01.2019 14:20:05",
+426;78;Gesetz;Dafür/Dagegen;1;48;"03.01.2019 14:20:05",
+427;78;Gesetz;Verständlichkeit;1;48;"03.01.2019 14:20:06",
+428;78;Gesetz;Fairness;0;50;"03.01.2019 14:20:22",
+429;78;Gesetz;Dafür/Dagegen;0;50;"03.01.2019 14:20:23",
+43;74;Gesetz;Fairness;1;158;"26.11.2018 17:19:53",
+430;78;Gesetz;Verständlichkeit;0;50;"03.01.2019 14:20:23",
+431;78;Gesetz;Fairness;-1;51;"03.01.2019 14:20:46",
+432;78;Gesetz;Dafür/Dagegen;0;51;"03.01.2019 14:20:46",
+433;78;Gesetz;Verständlichkeit;0;51;"03.01.2019 14:20:47",
+434;78;Gesetz;Fairness;1;53;"03.01.2019 14:22:13",
+435;78;Gesetz;Dafür/Dagegen;1;53;"03.01.2019 14:22:14",
+436;78;Gesetz;Verständlichkeit;1;53;"03.01.2019 14:22:14",
+437;78;Gesetz;Fairness;-1;54;"03.01.2019 14:22:33",
+438;78;Gesetz;Dafür/Dagegen;0;54;"03.01.2019 14:22:35",
+439;78;Gesetz;Verständlichkeit;0;54;"03.01.2019 14:22:35",
+44;74;Gesetz;Fairness;1;12;"26.11.2018 17:20:28",
+440;78;Gesetz;Fairness;0;131;"03.01.2019 14:22:52",
+441;78;Gesetz;Dafür/Dagegen;0;131;"03.01.2019 14:22:52",
+442;78;Gesetz;Verständlichkeit;0;131;"03.01.2019 14:22:52",
+443;78;Gesetz;Fairness;-1;57;"03.01.2019 14:26:07",
+444;78;Gesetz;Dafür/Dagegen;0;57;"03.01.2019 14:26:08",
+445;78;Gesetz;Verständlichkeit;0;57;"03.01.2019 14:26:08",
+446;78;Gesetz;Fairness;1;59;"03.01.2019 14:26:29",
+447;78;Gesetz;Dafür/Dagegen;1;59;"03.01.2019 14:26:30",
+448;78;Gesetz;Verständlichkeit;1;59;"03.01.2019 14:26:30",
+449;78;Gesetz;Fairness;0;60;"03.01.2019 14:26:49",
+45;74;Gesetz;Fairness;1;10;"26.11.2018 17:21:44",
+450;78;Gesetz;Dafür/Dagegen;-1;60;"03.01.2019 14:26:50",
+451;78;Gesetz;Verständlichkeit;0;60;"03.01.2019 14:26:50",
+452;78;Gesetz;Fairness;1;62;"03.01.2019 14:27:09",
+453;78;Gesetz;Dafür/Dagegen;1;62;"03.01.2019 14:27:10",
+454;78;Gesetz;Verständlichkeit;1;62;"03.01.2019 14:27:10",
+455;78;Gesetz;Fairness;1;101;"03.01.2019 14:27:21",
+456;78;Gesetz;Dafür/Dagegen;1;101;"03.01.2019 14:27:21",
+457;78;Gesetz;Verständlichkeit;1;101;"03.01.2019 14:27:21",
+458;78;Gesetz;Fairness;1;102;"03.01.2019 14:27:30",
+459;78;Gesetz;Dafür/Dagegen;1;102;"03.01.2019 14:27:30",
+46;74;Gesetz;Fairness;-1;23;"26.11.2018 17:24:49",
+460;78;Gesetz;Verständlichkeit;1;102;"03.01.2019 14:27:30",
+461;78;Gesetz;Fairness;0;103;"03.01.2019 14:27:45",
+462;78;Gesetz;Dafür/Dagegen;0;103;"03.01.2019 14:27:45",
+463;78;Gesetz;Verständlichkeit;0;103;"03.01.2019 14:27:46",
+464;78;Gesetz;Fairness;-1;104;"03.01.2019 14:27:59",
+465;78;Gesetz;Dafür/Dagegen;0;104;"03.01.2019 14:27:59",
+466;78;Gesetz;Verständlichkeit;0;104;"03.01.2019 14:28:00",
+467;78;Gesetz;Fairness;-1;106;"03.01.2019 14:28:07",
+468;78;Gesetz;Dafür/Dagegen;0;106;"03.01.2019 14:28:07",
+469;78;Gesetz;Verständlichkeit;0;106;"03.01.2019 14:28:08",
+47;75;Gesetz;Fairness;1;1;"26.11.2018 20:36:26",
+470;78;Gesetz;Fairness;1;107;"03.01.2019 14:28:13",
+471;78;Gesetz;Dafür/Dagegen;1;107;"03.01.2019 14:28:14",
+472;78;Gesetz;Verständlichkeit;1;107;"03.01.2019 14:28:14",
+473;78;Gesetz;Fairness;0;109;"03.01.2019 14:28:23",
+474;78;Gesetz;Dafür/Dagegen;0;109;"03.01.2019 14:28:23",
+475;78;Gesetz;Verständlichkeit;0;109;"03.01.2019 14:28:24",
+476;78;Gesetz;Fairness;0;110;"03.01.2019 14:28:38",
+477;78;Gesetz;Dafür/Dagegen;0;110;"03.01.2019 14:28:39",
+478;78;Gesetz;Verständlichkeit;0;110;"03.01.2019 14:28:39",
+479;78;Gesetz;Fairness;-1;112;"03.01.2019 14:29:15",
+48;75;Gesetz;Dafür/Dagegen;1;1;"26.11.2018 20:36:27",
+480;78;Gesetz;Dafür/Dagegen;0;112;"03.01.2019 14:29:17",
+481;78;Gesetz;Verständlichkeit;0;112;"03.01.2019 14:29:17",
+482;78;Gesetz;Fairness;0;114;"03.01.2019 14:30:04",
+483;78;Gesetz;Dafür/Dagegen;0;114;"03.01.2019 14:30:05",
+484;78;Gesetz;Verständlichkeit;0;114;"03.01.2019 14:30:05",
+485;78;Gesetz;Fairness;-1;132;"03.01.2019 14:30:16",
+486;78;Gesetz;Dafür/Dagegen;0;132;"03.01.2019 14:30:17",
+487;78;Gesetz;Verständlichkeit;0;132;"03.01.2019 14:30:17",
+488;78;Gesetz;Fairness;0;133;"03.01.2019 14:30:55",
+489;78;Gesetz;Dafür/Dagegen;1;133;"03.01.2019 14:30:55",
+49;75;Gesetz;Verständlichkeit;1;1;"26.11.2018 20:36:28",
+490;78;Gesetz;Verständlichkeit;0;133;"03.01.2019 14:30:56",
+491;78;Gesetz;Fairness;0;115;"03.01.2019 14:31:15",
+492;78;Gesetz;Dafür/Dagegen;0;115;"03.01.2019 14:31:16",
+493;78;Gesetz;Verständlichkeit;0;115;"03.01.2019 14:31:17",
+494;78;Gesetz;Fairness;1;117;"03.01.2019 14:31:45",
+495;78;Gesetz;Dafür/Dagegen;1;117;"03.01.2019 14:31:46",
+496;78;Gesetz;Verständlichkeit;1;117;"03.01.2019 14:31:47",
+497;78;Gesetz;Fairness;1;119;"03.01.2019 14:31:56",
+498;78;Gesetz;Dafür/Dagegen;1;119;"03.01.2019 14:31:56",
+499;78;Gesetz;Verständlichkeit;1;119;"03.01.2019 14:31:56",
+50;75;Gesetz;Fairness;1;3;"26.11.2018 20:54:30",
+500;78;Gesetz;Fairness;1;121;"03.01.2019 14:32:13",
+501;78;Gesetz;Dafür/Dagegen;1;121;"03.01.2019 14:32:13",
+502;78;Gesetz;Verständlichkeit;1;121;"03.01.2019 14:32:14",
+503;78;Gesetz;Fairness;0;123;"03.01.2019 14:32:26",
+504;78;Gesetz;Dafür/Dagegen;0;123;"03.01.2019 14:32:26",
+505;78;Gesetz;Verständlichkeit;0;123;"03.01.2019 14:32:26",
+506;78;Gesetz;Fairness;1;125;"03.01.2019 14:34:53",
+507;78;Gesetz;Dafür/Dagegen;-1;125;"03.01.2019 14:34:54",
+508;78;Gesetz;Verständlichkeit;-1;125;"03.01.2019 14:34:54",
+509;78;Gesetz;Fairness;0;134;"03.01.2019 14:35:42",
+51;75;Gesetz;Dafür/Dagegen;1;3;"26.11.2018 20:54:31",
+510;78;Gesetz;Dafür/Dagegen;0;134;"03.01.2019 14:35:43",
+511;78;Gesetz;Verständlichkeit;0;134;"03.01.2019 14:35:44",
+512;78;Gesetz;Fairness;0;135;"03.01.2019 14:36:03",
+513;78;Gesetz;Dafür/Dagegen;0;135;"03.01.2019 14:36:04",
+514;78;Gesetz;Verständlichkeit;0;135;"03.01.2019 14:36:04",
+515;78;Gesetz;Fairness;0;136;"03.01.2019 14:36:40",
+516;78;Gesetz;Dafür/Dagegen;0;136;"03.01.2019 14:36:41",
+517;78;Gesetz;Verständlichkeit;0;136;"03.01.2019 14:36:41",
+518;78;Gesetz;Fairness;1;137;"03.01.2019 14:37:12",
+519;78;Gesetz;Dafür/Dagegen;1;137;"03.01.2019 14:37:12",
+52;75;Gesetz;Verständlichkeit;1;3;"26.11.2018 20:54:31",
+520;78;Gesetz;Verständlichkeit;1;137;"03.01.2019 14:37:13",
+521;78;Gesetz;Fairness;0;138;"03.01.2019 14:37:34",
+522;78;Gesetz;Dafür/Dagegen;0;138;"03.01.2019 14:37:34",
+523;78;Gesetz;Verständlichkeit;0;138;"03.01.2019 14:37:35",
+524;78;Gesetz;Fairness;0;127;"03.01.2019 14:37:55",
+525;78;Gesetz;Dafür/Dagegen;0;127;"03.01.2019 14:37:55",
+526;78;Gesetz;Verständlichkeit;0;127;"03.01.2019 14:37:55",
+527;78;Gesetz;Fairness;-1;140;"03.01.2019 14:38:21",
+528;78;Gesetz;Dafür/Dagegen;0;140;"03.01.2019 14:38:22",
+529;78;Gesetz;Verständlichkeit;0;140;"03.01.2019 14:38:22",
+53;75;Gesetz;Fairness;1;31;"26.11.2018 21:01:49",
+530;78;Gesetz;Fairness;-1;128;"03.01.2019 14:48:06",
+531;78;Gesetz;Dafür/Dagegen;0;128;"03.01.2019 14:48:06",
+532;78;Gesetz;Verständlichkeit;0;128;"03.01.2019 14:48:07",
+533;78;Gesetz;Fairness;1;139;"03.01.2019 14:48:34",
+534;78;Gesetz;Dafür/Dagegen;1;139;"03.01.2019 14:48:35",
+535;78;Gesetz;Verständlichkeit;1;139;"03.01.2019 14:48:35",
+536;78;Gesetz;Fairness;1;126;"03.01.2019 14:49:24",
+537;78;Gesetz;Dafür/Dagegen;1;126;"03.01.2019 14:49:25",
+538;78;Gesetz;Verständlichkeit;1;126;"03.01.2019 14:49:25",
+539;78;Gesetz;Fairness;1;124;"03.01.2019 14:49:56",
+54;75;Gesetz;Dafür/Dagegen;0;31;"26.11.2018 21:01:50",
+540;78;Gesetz;Dafür/Dagegen;1;124;"03.01.2019 14:49:56",
+541;78;Gesetz;Verständlichkeit;1;124;"03.01.2019 14:49:56",
+542;78;Gesetz;Fairness;0;122;"03.01.2019 14:50:19",
+543;78;Gesetz;Dafür/Dagegen;0;122;"03.01.2019 14:50:20",
+544;78;Gesetz;Verständlichkeit;0;122;"03.01.2019 14:50:20",
+545;78;Gesetz;Fairness;1;120;"03.01.2019 14:50:45",
+546;78;Gesetz;Dafür/Dagegen;1;120;"03.01.2019 14:50:45",
+547;78;Gesetz;Verständlichkeit;1;120;"03.01.2019 14:50:46",
+548;78;Gesetz;Fairness;0;118;"03.01.2019 14:51:13",
+549;78;Gesetz;Dafür/Dagegen;0;118;"03.01.2019 14:51:13",
+55;75;Gesetz;Verständlichkeit;1;31;"26.11.2018 21:01:51",
+550;78;Gesetz;Verständlichkeit;0;118;"03.01.2019 14:51:13",
+551;78;Gesetz;Fairness;-1;116;"03.01.2019 14:51:40",
+552;78;Gesetz;Dafür/Dagegen;0;116;"03.01.2019 14:51:41",
+553;78;Gesetz;Verständlichkeit;0;116;"03.01.2019 14:51:41",
+554;78;Gesetz;Fairness;-1;113;"03.01.2019 14:51:50",
+555;78;Gesetz;Dafür/Dagegen;0;113;"03.01.2019 14:51:50",
+556;78;Gesetz;Verständlichkeit;0;113;"03.01.2019 14:51:51",
+557;78;Gesetz;Fairness;0;111;"03.01.2019 14:52:08",
+558;78;Gesetz;Dafür/Dagegen;0;111;"03.01.2019 14:52:08",
+559;78;Gesetz;Verständlichkeit;0;111;"03.01.2019 14:52:09",
+56;75;Gesetz;Fairness;1;123;"26.11.2018 21:07:47",
+560;78;Gesetz;Fairness;1;108;"03.01.2019 14:52:29",
+561;78;Gesetz;Dafür/Dagegen;1;108;"03.01.2019 14:52:29",
+562;78;Gesetz;Verständlichkeit;1;108;"03.01.2019 14:52:30",
+563;78;Gesetz;Fairness;0;141;"03.01.2019 14:53:06",
+564;78;Gesetz;Dafür/Dagegen;0;141;"03.01.2019 14:53:07",
+565;78;Gesetz;Verständlichkeit;0;141;"03.01.2019 14:53:08",
+566;78;Gesetz;Fairness;0;142;"03.01.2019 14:53:16",
+567;78;Gesetz;Dafür/Dagegen;0;142;"03.01.2019 14:53:16",
+568;78;Gesetz;Verständlichkeit;0;142;"03.01.2019 14:53:16",
+569;78;Gesetz;Fairness;0;105;"03.01.2019 14:55:16",
+57;75;Gesetz;Dafür/Dagegen;-1;123;"26.11.2018 21:07:48",
+570;78;Gesetz;Dafür/Dagegen;0;105;"03.01.2019 14:55:17",
+571;78;Gesetz;Verständlichkeit;0;105;"03.01.2019 14:55:17",
+573;78;Gesetz;Fairness;1;100;"03.01.2019 14:56:00",
+574;78;Gesetz;Dafür/Dagegen;0;100;"03.01.2019 14:56:02",
+575;78;Gesetz;Verständlichkeit;-1;100;"03.01.2019 14:56:03",
+576;78;Gesetz;Fairness;0;143;"03.01.2019 14:56:29",
+577;78;Gesetz;Dafür/Dagegen;0;143;"03.01.2019 14:56:29",
+578;78;Gesetz;Verständlichkeit;0;143;"03.01.2019 14:56:30",
+579;78;Gesetz;Fairness;1;99;"03.01.2019 14:56:40",
+580;78;Gesetz;Dafür/Dagegen;0;99;"03.01.2019 14:56:40",
+581;78;Gesetz;Verständlichkeit;-1;99;"03.01.2019 14:56:41",
+582;78;Gesetz;Fairness;1;98;"03.01.2019 14:56:49",
+583;78;Gesetz;Dafür/Dagegen;1;98;"03.01.2019 14:56:50",
+584;78;Gesetz;Verständlichkeit;1;98;"03.01.2019 14:56:50",
+585;78;Gesetz;Fairness;1;97;"03.01.2019 14:56:57",
+586;78;Gesetz;Dafür/Dagegen;-1;97;"03.01.2019 14:56:58",
+587;78;Gesetz;Verständlichkeit;-1;97;"03.01.2019 14:56:59",
+588;78;Gesetz;Fairness;1;96;"03.01.2019 14:57:09",
+589;78;Gesetz;Dafür/Dagegen;1;96;"03.01.2019 14:57:09",
+590;78;Gesetz;Verständlichkeit;1;96;"03.01.2019 14:57:10",
+591;78;Gesetz;Fairness;0;95;"03.01.2019 14:57:22",
+592;78;Gesetz;Dafür/Dagegen;0;95;"03.01.2019 14:57:22",
+593;78;Gesetz;Verständlichkeit;0;95;"03.01.2019 14:57:23",
+594;78;Gesetz;Fairness;0;94;"03.01.2019 14:57:56",
+595;78;Gesetz;Dafür/Dagegen;0;94;"03.01.2019 14:57:56",
+596;78;Gesetz;Verständlichkeit;0;94;"03.01.2019 14:57:57",
+597;78;Gesetz;Fairness;-1;93;"03.01.2019 14:58:16",
+598;78;Gesetz;Dafür/Dagegen;0;93;"03.01.2019 14:58:16",
+599;78;Gesetz;Verständlichkeit;0;93;"03.01.2019 14:58:17",
+6;61;Gesetz;Dafür/Dagegen;-1;164;"15.11.2018 18:35:40",
+600;78;Gesetz;Fairness;1;91;"03.01.2019 14:59:03",
+601;78;Gesetz;Dafür/Dagegen;-1;91;"03.01.2019 14:59:04",
+602;78;Gesetz;Verständlichkeit;-1;91;"03.01.2019 14:59:05",
+603;78;Gesetz;Fairness;-1;90;"03.01.2019 15:02:36",
+604;78;Gesetz;Dafür/Dagegen;0;90;"03.01.2019 15:02:37",
+605;78;Gesetz;Verständlichkeit;0;90;"03.01.2019 15:02:37",
+606;78;Gesetz;Fairness;0;89;"03.01.2019 15:03:08",
+607;78;Gesetz;Dafür/Dagegen;0;89;"03.01.2019 15:03:08",
+608;78;Gesetz;Verständlichkeit;0;89;"03.01.2019 15:03:08",
+609;78;Gesetz;Fairness;0;88;"03.01.2019 15:03:25",
+610;78;Gesetz;Dafür/Dagegen;0;88;"03.01.2019 15:03:26",
+611;78;Gesetz;Verständlichkeit;0;88;"03.01.2019 15:03:27",
+612;78;Gesetz;Fairness;1;87;"03.01.2019 15:04:21",
+613;78;Gesetz;Dafür/Dagegen;-1;87;"03.01.2019 15:04:21",
+614;78;Gesetz;Verständlichkeit;-1;87;"03.01.2019 15:04:22",
+615;78;Gesetz;Fairness;1;86;"03.01.2019 15:06:03",
+616;78;Gesetz;Dafür/Dagegen;0;86;"03.01.2019 15:06:03",
+617;78;Gesetz;Verständlichkeit;0;86;"03.01.2019 15:06:04",
+618;78;Gesetz;Fairness;-1;85;"03.01.2019 15:06:41",
+619;78;Gesetz;Dafür/Dagegen;0;85;"03.01.2019 15:06:41",
+620;78;Gesetz;Verständlichkeit;0;85;"03.01.2019 15:06:42",
+621;78;Gesetz;Fairness;0;84;"03.01.2019 15:06:59",
+622;78;Gesetz;Dafür/Dagegen;0;84;"03.01.2019 15:06:59",
+623;78;Gesetz;Verständlichkeit;0;84;"03.01.2019 15:07:00",
+624;78;Gesetz;Fairness;1;83;"03.01.2019 15:07:18",
+625;78;Gesetz;Dafür/Dagegen;1;83;"03.01.2019 15:07:18",
+626;78;Gesetz;Verständlichkeit;1;83;"03.01.2019 15:07:19",
+627;78;Gesetz;Fairness;1;82;"03.01.2019 15:07:28",
+628;78;Gesetz;Dafür/Dagegen;1;82;"03.01.2019 15:07:28",
+629;78;Gesetz;Verständlichkeit;1;82;"03.01.2019 15:07:29",
+630;78;Gesetz;Fairness;0;81;"03.01.2019 15:07:43",
+631;78;Gesetz;Dafür/Dagegen;0;81;"03.01.2019 15:07:43",
+632;78;Gesetz;Verständlichkeit;0;81;"03.01.2019 15:07:44",
+633;78;Gesetz;Fairness;0;80;"03.01.2019 15:08:07",
+634;78;Gesetz;Dafür/Dagegen;0;80;"03.01.2019 15:08:07",
+635;78;Gesetz;Verständlichkeit;0;80;"03.01.2019 15:08:08",
+636;78;Gesetz;Fairness;1;79;"03.01.2019 15:08:50",
+637;78;Gesetz;Fairness;1;78;"03.01.2019 15:09:03",
+638;78;Gesetz;Dafür/Dagegen;1;78;"03.01.2019 15:09:03",
+639;78;Gesetz;Verständlichkeit;1;78;"03.01.2019 15:09:04",
+640;78;Gesetz;Fairness;0;77;"03.01.2019 15:09:25",
+641;78;Gesetz;Dafür/Dagegen;0;77;"03.01.2019 15:09:26",
+642;78;Gesetz;Verständlichkeit;0;77;"03.01.2019 15:09:26",
+643;78;Gesetz;Fairness;-1;76;"03.01.2019 15:09:45",
+644;78;Gesetz;Dafür/Dagegen;0;76;"03.01.2019 15:09:45",
+645;78;Gesetz;Verständlichkeit;0;76;"03.01.2019 15:09:46",
+646;78;Gesetz;Fairness;1;75;"03.01.2019 15:10:02",
+647;78;Gesetz;Dafür/Dagegen;0;75;"03.01.2019 15:10:02",
+648;78;Gesetz;Verständlichkeit;0;75;"03.01.2019 15:10:03",
+649;78;Gesetz;Fairness;1;74;"03.01.2019 15:10:49",
+650;78;Gesetz;Dafür/Dagegen;1;74;"03.01.2019 15:10:49",
+651;78;Gesetz;Verständlichkeit;1;74;"03.01.2019 15:10:49",
+652;78;Gesetz;Fairness;0;73;"03.01.2019 15:11:21",
+653;78;Gesetz;Dafür/Dagegen;0;73;"03.01.2019 15:11:22",
+654;78;Gesetz;Verständlichkeit;0;73;"03.01.2019 15:11:22",
+655;78;Gesetz;Fairness;1;72;"03.01.2019 15:12:56",
+656;78;Gesetz;Dafür/Dagegen;0;72;"03.01.2019 15:12:57",
+657;78;Gesetz;Verständlichkeit;0;72;"03.01.2019 15:12:58",
+658;78;Gesetz;Fairness;1;71;"03.01.2019 15:13:12",
+659;78;Gesetz;Dafür/Dagegen;1;71;"03.01.2019 15:13:12",
+66;75;Gesetz;Verständlichkeit;-1;123;"26.11.2018 21:07:53",
+660;78;Gesetz;Verständlichkeit;1;71;"03.01.2019 15:13:12",
+661;78;Gesetz;Fairness;0;70;"03.01.2019 15:13:49",
+662;78;Gesetz;Dafür/Dagegen;0;70;"03.01.2019 15:13:49",
+663;78;Gesetz;Verständlichkeit;0;70;"03.01.2019 15:13:49",
+664;78;Gesetz;Fairness;0;69;"03.01.2019 15:14:38",
+665;78;Gesetz;Dafür/Dagegen;0;69;"03.01.2019 15:14:39",
+666;78;Gesetz;Verständlichkeit;0;69;"03.01.2019 15:14:39",
+667;78;Gesetz;Fairness;0;68;"03.01.2019 15:51:48",
+668;78;Gesetz;Dafür/Dagegen;0;68;"03.01.2019 15:51:48",
+669;78;Gesetz;Verständlichkeit;0;68;"03.01.2019 15:51:49",
+67;75;Gesetz;Fairness;1;100;"26.11.2018 21:17:31",
+670;78;Gesetz;Fairness;-1;67;"03.01.2019 15:51:56",
+671;78;Gesetz;Dafür/Dagegen;0;67;"03.01.2019 15:51:57",
+672;78;Gesetz;Verständlichkeit;0;67;"03.01.2019 15:51:57",
+673;78;Gesetz;Fairness;1;66;"03.01.2019 15:52:12",
+674;78;Gesetz;Dafür/Dagegen;1;66;"03.01.2019 15:52:13",
+675;78;Gesetz;Verständlichkeit;1;66;"03.01.2019 15:52:13",
+676;78;Gesetz;Fairness;1;65;"03.01.2019 15:52:32",
+678;78;Gesetz;Verständlichkeit;1;65;"03.01.2019 15:52:33",
+679;78;Gesetz;Dafür/Dagegen;0;65;"03.01.2019 15:52:34",
+68;75;Gesetz;Dafür/Dagegen;0;100;"26.11.2018 21:17:32",
+680;78;Gesetz;Fairness;0;92;"03.01.2019 15:55:34",
+681;78;Gesetz;Dafür/Dagegen;0;92;"03.01.2019 15:55:34",
+682;78;Gesetz;Verständlichkeit;0;92;"03.01.2019 15:55:35",
+683;78;Gesetz;Fairness;1;63;"03.01.2019 15:55:43",
+684;78;Gesetz;Dafür/Dagegen;1;63;"03.01.2019 15:55:43",
+685;78;Gesetz;Verständlichkeit;1;63;"03.01.2019 15:55:44",
+686;78;Gesetz;Fairness;-1;61;"03.01.2019 15:56:09",
+687;78;Gesetz;Dafür/Dagegen;-1;61;"03.01.2019 15:56:10",
+688;78;Gesetz;Verständlichkeit;-1;61;"03.01.2019 15:56:10",
+689;78;Gesetz;Fairness;0;58;"03.01.2019 15:56:19",
+69;75;Gesetz;Verständlichkeit;0;100;"26.11.2018 21:17:33",
+690;78;Gesetz;Dafür/Dagegen;0;58;"03.01.2019 15:56:19",
+691;78;Gesetz;Verständlichkeit;0;58;"03.01.2019 15:56:20",
+692;78;Gesetz;Fairness;0;56;"03.01.2019 15:56:47",
+693;78;Gesetz;Dafür/Dagegen;0;56;"03.01.2019 15:56:48",
+694;78;Gesetz;Verständlichkeit;0;56;"03.01.2019 15:56:48",
+695;78;Gesetz;Fairness;0;52;"03.01.2019 15:57:14",
+696;78;Gesetz;Dafür/Dagegen;0;52;"03.01.2019 15:57:15",
+697;78;Gesetz;Verständlichkeit;0;52;"03.01.2019 15:57:15",
+698;78;Gesetz;Fairness;1;49;"03.01.2019 15:57:48",
+699;78;Gesetz;Dafür/Dagegen;1;49;"03.01.2019 15:57:49",
+7;61;Gesetz;Verständlichkeit;-1;164;"15.11.2018 18:35:40",
+70;75;Gesetz;Fairness;1;83;"26.11.2018 21:24:39",
+700;78;Gesetz;Verständlichkeit;1;49;"03.01.2019 15:57:49",
+701;78;Gesetz;Fairness;-1;46;"03.01.2019 15:58:10",
+702;78;Gesetz;Dafür/Dagegen;0;46;"03.01.2019 15:58:10",
+703;78;Gesetz;Verständlichkeit;0;46;"03.01.2019 15:58:11",
+704;78;Gesetz;Fairness;1;43;"03.01.2019 15:58:23",
+705;78;Gesetz;Dafür/Dagegen;1;43;"03.01.2019 15:58:23",
+706;78;Gesetz;Verständlichkeit;1;43;"03.01.2019 15:58:23",
+707;78;Gesetz;Fairness;1;41;"03.01.2019 15:58:46",
+708;78;Gesetz;Dafür/Dagegen;1;41;"03.01.2019 15:58:46",
+709;78;Gesetz;Verständlichkeit;1;41;"03.01.2019 15:58:46",
+710;78;Gesetz;Fairness;-1;40;"03.01.2019 15:58:59",
+711;78;Gesetz;Dafür/Dagegen;0;40;"03.01.2019 15:58:59",
+712;78;Gesetz;Verständlichkeit;0;40;"03.01.2019 15:59:00",
+713;78;Gesetz;Fairness;-1;38;"03.01.2019 15:59:12",
+714;78;Gesetz;Dafür/Dagegen;0;38;"03.01.2019 15:59:12",
+715;78;Gesetz;Verständlichkeit;0;38;"03.01.2019 15:59:12",
+716;78;Gesetz;Fairness;1;35;"03.01.2019 15:59:24",
+717;78;Gesetz;Dafür/Dagegen;1;35;"03.01.2019 15:59:24",
+718;78;Gesetz;Verständlichkeit;1;35;"03.01.2019 15:59:24",
+719;78;Gesetz;Fairness;1;32;"03.01.2019 15:59:39",
+720;78;Gesetz;Dafür/Dagegen;1;32;"03.01.2019 15:59:39",
+721;78;Gesetz;Verständlichkeit;1;32;"03.01.2019 15:59:40",
+722;78;Gesetz;Fairness;1;30;"03.01.2019 15:59:58",
+723;78;Gesetz;Dafür/Dagegen;1;30;"03.01.2019 15:59:59",
+724;78;Gesetz;Verständlichkeit;1;30;"03.01.2019 15:59:59",
+725;78;Gesetz;Fairness;0;27;"03.01.2019 16:00:08",
+726;78;Gesetz;Dafür/Dagegen;0;27;"03.01.2019 16:00:09",
+727;78;Gesetz;Verständlichkeit;0;27;"03.01.2019 16:00:09",
+728;78;Gesetz;Fairness;1;25;"03.01.2019 16:00:18",
+729;78;Gesetz;Dafür/Dagegen;0;25;"03.01.2019 16:00:18",
+73;75;Gesetz;Dafür/Dagegen;0;83;"26.11.2018 21:25:05",
+730;78;Gesetz;Verständlichkeit;0;25;"03.01.2019 16:00:19",
+731;78;Gesetz;Fairness;-1;22;"03.01.2019 16:00:30",
+732;78;Gesetz;Dafür/Dagegen;0;22;"03.01.2019 16:00:30",
+733;78;Gesetz;Verständlichkeit;0;22;"03.01.2019 16:00:30",
+734;78;Gesetz;Fairness;0;21;"03.01.2019 16:00:44",
+735;78;Gesetz;Dafür/Dagegen;0;21;"03.01.2019 16:00:44",
+736;78;Gesetz;Verständlichkeit;0;21;"03.01.2019 16:00:45",
+737;78;Gesetz;Fairness;1;19;"03.01.2019 16:01:02",
+738;78;Gesetz;Dafür/Dagegen;1;19;"03.01.2019 16:01:02",
+739;78;Gesetz;Verständlichkeit;1;19;"03.01.2019 16:01:02",
+74;75;Gesetz;Verständlichkeit;0;83;"26.11.2018 21:25:05",
+740;78;Gesetz;Fairness;0;144;"03.01.2019 16:01:25",
+741;78;Gesetz;Dafür/Dagegen;0;144;"03.01.2019 16:01:25",
+742;78;Gesetz;Verständlichkeit;0;144;"03.01.2019 16:01:26",
+743;78;Gesetz;Fairness;-1;145;"03.01.2019 16:01:33",
+744;78;Gesetz;Dafür/Dagegen;0;145;"03.01.2019 16:01:33",
+745;78;Gesetz;Verständlichkeit;0;145;"03.01.2019 16:01:33",
+746;78;Gesetz;Fairness;0;146;"03.01.2019 16:01:45",
+747;78;Gesetz;Dafür/Dagegen;0;146;"03.01.2019 16:01:45",
+748;78;Gesetz;Verständlichkeit;0;146;"03.01.2019 16:01:45",
+749;78;Gesetz;Fairness;1;147;"03.01.2019 16:01:54",
+750;78;Gesetz;Dafür/Dagegen;1;147;"03.01.2019 16:01:54",
+751;78;Gesetz;Verständlichkeit;1;147;"03.01.2019 16:01:55",
+752;78;Gesetz;Fairness;1;148;"03.01.2019 16:02:04",
+753;78;Gesetz;Dafür/Dagegen;1;148;"03.01.2019 16:02:04",
+754;78;Gesetz;Verständlichkeit;1;148;"03.01.2019 16:02:05",
+755;78;Gesetz;Fairness;1;149;"03.01.2019 16:02:17",
+756;78;Gesetz;Dafür/Dagegen;1;149;"03.01.2019 16:02:17",
+757;78;Gesetz;Verständlichkeit;1;149;"03.01.2019 16:02:17",
+758;78;Gesetz;Fairness;-1;150;"03.01.2019 16:02:31",
+759;78;Gesetz;Dafür/Dagegen;0;150;"03.01.2019 16:02:31",
+76;65;Gesetz;Dafür/Dagegen;1;3;"27.11.2018 17:28:56",
+760;78;Gesetz;Verständlichkeit;0;150;"03.01.2019 16:02:31",
+761;78;Gesetz;Fairness;0;151;"03.01.2019 16:02:44",
+762;78;Gesetz;Dafür/Dagegen;0;151;"03.01.2019 16:02:44",
+763;78;Gesetz;Verständlichkeit;0;151;"03.01.2019 16:02:45",
+764;78;Gesetz;Fairness;0;152;"03.01.2019 16:03:04",
+765;78;Gesetz;Dafür/Dagegen;0;152;"03.01.2019 16:03:05",
+766;78;Gesetz;Verständlichkeit;0;152;"03.01.2019 16:03:05",
+767;78;Gesetz;Fairness;0;153;"03.01.2019 16:03:11",
+768;78;Gesetz;Dafür/Dagegen;0;153;"03.01.2019 16:03:11",
+769;78;Gesetz;Verständlichkeit;0;153;"03.01.2019 16:03:12",
+77;65;Gesetz;Verständlichkeit;1;3;"27.11.2018 17:28:57",
+770;78;Gesetz;Fairness;1;154;"03.01.2019 16:03:18",
+771;78;Gesetz;Dafür/Dagegen;1;154;"03.01.2019 16:03:19",
+772;78;Gesetz;Verständlichkeit;1;154;"03.01.2019 16:03:19",
+774;78;Gesetz;Fairness;0;155;"03.01.2019 16:03:30",
+775;78;Gesetz;Dafür/Dagegen;0;155;"03.01.2019 16:03:30",
+776;78;Gesetz;Verständlichkeit;0;155;"03.01.2019 16:03:31",
+777;78;Gesetz;Fairness;1;156;"03.01.2019 16:03:39",
+778;78;Gesetz;Dafür/Dagegen;1;156;"03.01.2019 16:03:39",
+779;78;Gesetz;Verständlichkeit;1;156;"03.01.2019 16:03:40",
+78;65;Gesetz;Fairness;0;3;"27.11.2018 17:29:20",
+780;78;Gesetz;Fairness;0;11;"03.01.2019 16:04:04",
+781;78;Gesetz;Dafür/Dagegen;0;11;"03.01.2019 16:04:04",
+782;78;Gesetz;Verständlichkeit;0;11;"03.01.2019 16:04:05",
+783;82;Gesetz;Fairness;1;1;"09.01.2019 11:24:48",
+784;82;Gesetz;Fairness;1;120;"09.01.2019 11:58:37",
+785;82;Gesetz;Fairness;1;76;"09.01.2019 12:15:40",
+786;91;Gesetz;Fairness;1;1;"12.01.2019 10:52:15",
+787;91;Gesetz;Dafür/Dagegen;0;1;"12.01.2019 10:52:18",
+788;91;Gesetz;Verständlichkeit;0;1;"12.01.2019 10:52:18",
+79;65;Gesetz;Fairness;1;4;"27.11.2018 17:29:48",
+790;91;Gesetz;Dafür/Dagegen;1;2;"12.01.2019 11:12:43",
+791;91;Gesetz;Fairness;0;2;"12.01.2019 11:12:47",
+792;91;Gesetz;Verständlichkeit;1;2;"12.01.2019 11:12:50",
+794;91;Gesetz;Dafür/Dagegen;1;3;"12.01.2019 11:17:03",
+795;91;Gesetz;Verständlichkeit;1;3;"12.01.2019 11:17:04",
+796;91;Gesetz;Fairness;-1;3;"12.01.2019 11:36:29",
+797;91;Gesetz;Fairness;1;4;"12.01.2019 11:38:24",
+798;91;Gesetz;Dafür/Dagegen;0;4;"12.01.2019 11:38:27",
+8;61;Gesetz;Dafür/Dagegen;-1;63;"15.11.2018 18:40:33",
+80;65;Gesetz;Dafür/Dagegen;1;4;"27.11.2018 17:29:48",
+800;91;Gesetz;Verständlichkeit;1;4;"12.01.2019 11:38:34",
+801;91;Gesetz;Fairness;1;5;"12.01.2019 11:39:34",
+802;91;Gesetz;Dafür/Dagegen;1;5;"12.01.2019 11:39:35",
+803;91;Gesetz;Verständlichkeit;1;5;"12.01.2019 11:39:35",
+804;91;Gesetz;Fairness;1;6;"12.01.2019 11:40:32",
+805;91;Gesetz;Dafür/Dagegen;1;6;"12.01.2019 11:40:32",
+806;91;Gesetz;Verständlichkeit;1;6;"12.01.2019 11:40:33",
+807;91;Gesetz;Fairness;1;7;"12.01.2019 11:42:21",
+808;91;Gesetz;Dafür/Dagegen;-1;7;"12.01.2019 11:42:21",
+809;91;Gesetz;Verständlichkeit;-1;7;"12.01.2019 11:42:22",
+81;65;Gesetz;Verständlichkeit;1;4;"27.11.2018 17:29:48",
+810;91;Gesetz;Fairness;1;8;"12.01.2019 11:48:10",
+811;91;Gesetz;Dafür/Dagegen;1;8;"12.01.2019 11:48:11",
+812;91;Gesetz;Verständlichkeit;1;8;"12.01.2019 11:48:11",
+813;91;Gesetz;Fairness;-1;9;"12.01.2019 12:00:29",
+814;91;Gesetz;Dafür/Dagegen;0;9;"12.01.2019 12:00:30",
+815;91;Gesetz;Verständlichkeit;0;9;"12.01.2019 12:00:31",
+816;91;Gesetz;Fairness;1;158;"12.01.2019 12:10:12",
+817;91;Gesetz;Dafür/Dagegen;-1;158;"12.01.2019 12:10:14",
+818;91;Gesetz;Verständlichkeit;-1;158;"12.01.2019 12:10:15",
+819;91;Gesetz;Fairness;1;10;"12.01.2019 12:20:39",
+82;65;Gesetz;Fairness;-1;6;"27.11.2018 17:33:26",
+820;91;Gesetz;Dafür/Dagegen;1;10;"12.01.2019 12:20:43",
+821;91;Gesetz;Verständlichkeit;1;10;"12.01.2019 12:20:44",
+822;91;Gesetz;Fairness;1;12;"12.01.2019 12:21:29",
+823;91;Gesetz;Dafür/Dagegen;1;12;"12.01.2019 12:21:29",
+824;91;Gesetz;Verständlichkeit;1;12;"12.01.2019 12:21:30",
+825;91;Gesetz;Fairness;1;13;"12.01.2019 12:23:27",
+826;91;Gesetz;Dafür/Dagegen;1;13;"12.01.2019 12:23:28",
+827;91;Gesetz;Verständlichkeit;1;13;"12.01.2019 12:23:28",
+828;91;Gesetz;Fairness;1;14;"12.01.2019 12:23:44",
+829;91;Gesetz;Dafür/Dagegen;1;14;"12.01.2019 12:23:44",
+83;65;Gesetz;Dafür/Dagegen;0;6;"27.11.2018 17:33:27",
+830;91;Gesetz;Verständlichkeit;1;14;"12.01.2019 12:23:44",
+831;91;Gesetz;Fairness;1;15;"12.01.2019 12:28:25",
+832;91;Gesetz;Dafür/Dagegen;1;15;"12.01.2019 12:28:26",
+833;91;Gesetz;Verständlichkeit;1;15;"12.01.2019 12:28:26",
+834;91;Gesetz;Fairness;1;17;"12.01.2019 12:30:48",
+835;91;Gesetz;Dafür/Dagegen;1;17;"12.01.2019 12:30:48",
+836;91;Gesetz;Verständlichkeit;1;17;"12.01.2019 12:30:49",
+837;91;Gesetz;Fairness;1;18;"12.01.2019 12:32:22",
+838;91;Gesetz;Dafür/Dagegen;1;18;"12.01.2019 12:32:22",
+839;91;Gesetz;Verständlichkeit;1;18;"12.01.2019 12:32:23",
+84;65;Gesetz;Verständlichkeit;0;6;"27.11.2018 17:33:28",
+840;91;Gesetz;Fairness;1;20;"12.01.2019 12:35:57",
+841;91;Gesetz;Dafür/Dagegen;-1;20;"12.01.2019 12:35:58",
+842;91;Gesetz;Verständlichkeit;-1;20;"12.01.2019 12:35:59",
+843;91;Gesetz;Fairness;1;23;"12.01.2019 12:41:53",
+844;91;Gesetz;Dafür/Dagegen;1;23;"12.01.2019 12:41:54",
+845;91;Gesetz;Verständlichkeit;1;23;"12.01.2019 12:41:54",
+847;91;Gesetz;Fairness;-1;24;"12.01.2019 12:44:03",
+848;91;Gesetz;Dafür/Dagegen;0;24;"12.01.2019 12:44:06",
+849;91;Gesetz;Verständlichkeit;0;24;"12.01.2019 12:44:07",
+85;65;Gesetz;Fairness;1;8;"27.11.2018 17:37:36",
+850;91;Gesetz;Fairness;0;26;"12.01.2019 12:45:58",
+851;91;Gesetz;Dafür/Dagegen;0;26;"12.01.2019 12:45:59",
+852;91;Gesetz;Verständlichkeit;0;26;"12.01.2019 12:45:59",
+853;91;Gesetz;Fairness;1;28;"12.01.2019 12:46:19",
+854;91;Gesetz;Dafür/Dagegen;1;28;"12.01.2019 12:46:19",
+855;91;Gesetz;Verständlichkeit;1;28;"12.01.2019 12:46:19",
+856;91;Gesetz;Fairness;1;29;"12.01.2019 12:46:34",
+857;91;Gesetz;Dafür/Dagegen;1;29;"12.01.2019 12:46:35",
+858;91;Gesetz;Verständlichkeit;1;29;"12.01.2019 12:46:35",
+859;91;Gesetz;Fairness;1;31;"12.01.2019 14:23:49",
+86;65;Gesetz;Dafür/Dagegen;1;8;"27.11.2018 17:37:36",
+860;91;Gesetz;Dafür/Dagegen;1;31;"12.01.2019 14:23:50",
+861;91;Gesetz;Verständlichkeit;1;31;"12.01.2019 14:23:51",
+862;91;Gesetz;Fairness;1;33;"12.01.2019 14:29:59",
+863;91;Gesetz;Dafür/Dagegen;1;33;"12.01.2019 14:29:59",
+864;91;Gesetz;Verständlichkeit;1;33;"12.01.2019 14:29:59",
+865;91;Gesetz;Fairness;1;34;"12.01.2019 14:30:08",
+866;91;Gesetz;Dafür/Dagegen;1;34;"12.01.2019 14:30:08",
+867;91;Gesetz;Verständlichkeit;1;34;"12.01.2019 14:30:08",
+868;91;Gesetz;Fairness;1;36;"12.01.2019 14:30:55",
+869;91;Gesetz;Dafür/Dagegen;1;36;"12.01.2019 14:30:55",
+87;65;Gesetz;Verständlichkeit;1;8;"27.11.2018 17:37:37",
+870;91;Gesetz;Verständlichkeit;1;36;"12.01.2019 14:30:55",
+871;91;Gesetz;Fairness;1;164;"12.01.2019 14:33:53",
+872;91;Gesetz;Dafür/Dagegen;-1;164;"12.01.2019 14:33:56",
+873;91;Gesetz;Verständlichkeit;-1;164;"12.01.2019 14:33:57",
+874;91;Gesetz;Fairness;0;37;"12.01.2019 14:34:11",
+875;91;Gesetz;Dafür/Dagegen;0;37;"12.01.2019 14:34:11",
+876;91;Gesetz;Verständlichkeit;0;37;"12.01.2019 14:34:11",
+877;91;Gesetz;Fairness;1;39;"12.01.2019 14:34:19",
+878;91;Gesetz;Dafür/Dagegen;1;39;"12.01.2019 14:34:20",
+879;91;Gesetz;Verständlichkeit;1;39;"12.01.2019 14:34:20",
+880;91;Gesetz;Fairness;1;42;"12.01.2019 14:34:36",
+881;91;Gesetz;Dafür/Dagegen;0;42;"12.01.2019 14:34:36",
+882;91;Gesetz;Verständlichkeit;0;42;"12.01.2019 14:34:37",
+883;91;Gesetz;Fairness;1;44;"12.01.2019 14:34:48",
+884;91;Gesetz;Dafür/Dagegen;0;44;"12.01.2019 14:34:48",
+885;91;Gesetz;Verständlichkeit;0;44;"12.01.2019 14:34:48",
+886;91;Gesetz;Fairness;1;129;"12.01.2019 14:34:52",
+887;91;Gesetz;Dafür/Dagegen;0;129;"12.01.2019 14:34:53",
+888;91;Gesetz;Verständlichkeit;0;129;"12.01.2019 14:34:53",
+889;91;Gesetz;Fairness;1;45;"12.01.2019 14:35:04",
+890;91;Gesetz;Dafür/Dagegen;1;45;"12.01.2019 14:35:04",
+891;91;Gesetz;Verständlichkeit;1;45;"12.01.2019 14:35:04",
+892;91;Gesetz;Fairness;1;130;"12.01.2019 14:35:16",
+893;91;Gesetz;Dafür/Dagegen;1;130;"12.01.2019 14:35:16",
+894;91;Gesetz;Verständlichkeit;1;130;"12.01.2019 14:35:17",
+895;91;Gesetz;Fairness;1;47;"12.01.2019 14:36:02",
+898;91;Gesetz;Dafür/Dagegen;0;47;"12.01.2019 14:36:04",
+899;91;Gesetz;Verständlichkeit;0;47;"12.01.2019 14:36:05",
+9;61;Gesetz;Verständlichkeit;-1;63;"15.11.2018 18:40:33",
+900;91;Gesetz;Dafür/Dagegen;1;48;"12.01.2019 14:36:25",
+901;91;Gesetz;Fairness;1;48;"12.01.2019 14:36:26",
+902;91;Gesetz;Verständlichkeit;1;48;"12.01.2019 14:36:26",
+903;91;Gesetz;Fairness;1;50;"12.01.2019 14:36:40",
+904;91;Gesetz;Dafür/Dagegen;1;50;"12.01.2019 14:36:41",
+905;91;Gesetz;Verständlichkeit;1;50;"12.01.2019 14:36:41",
+906;91;Gesetz;Fairness;1;51;"12.01.2019 14:38:40",
+907;91;Gesetz;Dafür/Dagegen;1;51;"12.01.2019 14:38:40",
+908;91;Gesetz;Verständlichkeit;1;51;"12.01.2019 14:38:40",
+909;91;Gesetz;Fairness;1;53;"12.01.2019 14:39:05",
+91;65;Gesetz;Verständlichkeit;0;9;"27.11.2018 17:38:04",
+910;91;Gesetz;Dafür/Dagegen;1;53;"12.01.2019 14:39:05",
+911;91;Gesetz;Verständlichkeit;1;53;"12.01.2019 14:39:05",
+912;91;Gesetz;Fairness;1;54;"12.01.2019 14:39:28",
+913;91;Gesetz;Dafür/Dagegen;1;54;"12.01.2019 14:39:29",
+914;91;Gesetz;Verständlichkeit;1;54;"12.01.2019 14:39:29",
+915;91;Gesetz;Fairness;1;131;"12.01.2019 14:39:34",
+916;91;Gesetz;Dafür/Dagegen;1;131;"12.01.2019 14:39:34",
+917;91;Gesetz;Verständlichkeit;1;131;"12.01.2019 14:39:34",
+918;91;Gesetz;Dafür/Dagegen;1;55;"12.01.2019 14:41:17",
+919;91;Gesetz;Verständlichkeit;1;55;"12.01.2019 14:41:17",
+92;65;Gesetz;Fairness;0;9;"27.11.2018 17:38:05",
+920;91;Gesetz;Fairness;1;55;"12.01.2019 14:41:18",
+921;91;Gesetz;Fairness;1;57;"12.01.2019 14:41:43",
+922;91;Gesetz;Dafür/Dagegen;1;57;"12.01.2019 14:41:43",
+923;91;Gesetz;Verständlichkeit;1;57;"12.01.2019 14:41:43",
+924;91;Gesetz;Fairness;1;59;"12.01.2019 14:41:50",
+925;91;Gesetz;Dafür/Dagegen;1;59;"12.01.2019 14:41:50",
+926;91;Gesetz;Verständlichkeit;0;59;"12.01.2019 14:41:55",
+927;91;Gesetz;Fairness;0;60;"12.01.2019 14:42:00",
+928;91;Gesetz;Dafür/Dagegen;0;60;"12.01.2019 14:42:00",
+929;91;Gesetz;Verständlichkeit;0;60;"12.01.2019 14:42:00",
+93;65;Gesetz;Dafür/Dagegen;1;9;"27.11.2018 17:38:07",
+930;91;Gesetz;Fairness;1;62;"12.01.2019 14:46:15",
+931;91;Gesetz;Dafür/Dagegen;1;62;"12.01.2019 14:46:17",
+932;91;Gesetz;Verständlichkeit;1;62;"12.01.2019 14:46:17",
+933;91;Gesetz;Fairness;1;101;"12.01.2019 14:46:45",
+934;91;Gesetz;Dafür/Dagegen;1;101;"12.01.2019 14:46:45",
+935;91;Gesetz;Verständlichkeit;1;101;"12.01.2019 14:46:45",
+936;91;Gesetz;Fairness;1;102;"12.01.2019 14:46:55",
+937;91;Gesetz;Dafür/Dagegen;1;102;"12.01.2019 14:46:55",
+938;91;Gesetz;Verständlichkeit;1;102;"12.01.2019 14:46:55",
+939;91;Gesetz;Fairness;1;103;"12.01.2019 14:47:42",
+94;65;Gesetz;Dafür/Dagegen;1;158;"27.11.2018 17:38:51",
+940;91;Gesetz;Dafür/Dagegen;1;103;"12.01.2019 14:47:42",
+941;91;Gesetz;Verständlichkeit;1;103;"12.01.2019 14:47:43",
+942;91;Gesetz;Fairness;1;104;"12.01.2019 14:48:35",
+943;91;Gesetz;Dafür/Dagegen;1;104;"12.01.2019 14:48:35",
+944;91;Gesetz;Verständlichkeit;1;104;"12.01.2019 14:48:35",
+945;91;Gesetz;Fairness;1;106;"12.01.2019 14:48:40",
+946;91;Gesetz;Dafür/Dagegen;1;106;"12.01.2019 14:48:41",
+947;91;Gesetz;Verständlichkeit;1;106;"12.01.2019 14:48:41",
+948;91;Gesetz;Dafür/Dagegen;1;107;"12.01.2019 14:48:47",
+949;91;Gesetz;Fairness;1;107;"12.01.2019 14:48:48",
+95;65;Gesetz;Fairness;1;158;"27.11.2018 17:38:52",
+950;91;Gesetz;Verständlichkeit;1;107;"12.01.2019 14:48:49",
+951;91;Gesetz;Fairness;1;109;"12.01.2019 14:48:50",
+952;91;Gesetz;Dafür/Dagegen;1;109;"12.01.2019 14:48:50",
+953;91;Gesetz;Verständlichkeit;1;109;"12.01.2019 14:48:50",
+954;91;Gesetz;Fairness;-1;110;"12.01.2019 14:52:11",
+955;91;Gesetz;Dafür/Dagegen;0;110;"12.01.2019 14:52:13",
+956;91;Gesetz;Verständlichkeit;0;110;"12.01.2019 14:52:13",
+958;91;Gesetz;Dafür/Dagegen;0;112;"12.01.2019 14:54:52",
+959;91;Gesetz;Verständlichkeit;0;112;"12.01.2019 14:54:52",
+96;65;Gesetz;Verständlichkeit;1;158;"27.11.2018 17:38:52",
+960;91;Gesetz;Fairness;1;112;"12.01.2019 15:02:55",
+961;91;Gesetz;Fairness;1;114;"12.01.2019 15:03:22",
+962;91;Gesetz;Dafür/Dagegen;1;114;"12.01.2019 15:03:22",
+963;91;Gesetz;Verständlichkeit;1;114;"12.01.2019 15:03:23",
+964;91;Gesetz;Fairness;1;132;"12.01.2019 15:03:45",
+965;91;Gesetz;Dafür/Dagegen;1;132;"12.01.2019 15:03:45",
+966;91;Gesetz;Verständlichkeit;1;132;"12.01.2019 15:03:45",
+967;91;Gesetz;Fairness;0;133;"12.01.2019 15:03:50",
+968;91;Gesetz;Dafür/Dagegen;0;133;"12.01.2019 15:03:51",
+969;91;Gesetz;Verständlichkeit;0;133;"12.01.2019 15:03:51",
+97;65;Gesetz;Fairness;-1;24;"27.11.2018 17:39:40",
+970;91;Gesetz;Fairness;1;115;"12.01.2019 15:05:38",
+971;91;Gesetz;Dafür/Dagegen;1;115;"12.01.2019 15:05:38",
+972;91;Gesetz;Verständlichkeit;1;115;"12.01.2019 15:05:39",
+973;91;Gesetz;Fairness;1;117;"12.01.2019 15:05:46",
+974;91;Gesetz;Dafür/Dagegen;1;117;"12.01.2019 15:05:46",
+975;91;Gesetz;Verständlichkeit;1;117;"12.01.2019 15:05:46",
+976;91;Gesetz;Fairness;1;119;"12.01.2019 15:06:43",
+978;91;Gesetz;Dafür/Dagegen;1;119;"12.01.2019 15:06:43",
+979;91;Gesetz;Verständlichkeit;1;119;"12.01.2019 15:06:43",
+98;65;Gesetz;Dafür/Dagegen;0;24;"27.11.2018 17:39:42",
+980;91;Gesetz;Fairness;1;121;"12.01.2019 15:08:50",
+981;91;Gesetz;Dafür/Dagegen;1;121;"12.01.2019 15:08:50",
+982;91;Gesetz;Verständlichkeit;1;121;"12.01.2019 15:08:51",
+986;91;Gesetz;Dafür/Dagegen;0;123;"12.01.2019 15:12:38",
+987;91;Gesetz;Verständlichkeit;0;123;"12.01.2019 15:12:38",
+988;91;Gesetz;Fairness;0;123;"12.01.2019 15:12:39",
+989;91;Gesetz;Fairness;1;125;"12.01.2019 15:13:10",
+99;65;Gesetz;Verständlichkeit;0;24;"27.11.2018 17:42:51",
+990;91;Gesetz;Dafür/Dagegen;1;125;"12.01.2019 15:13:11",
+991;91;Gesetz;Verständlichkeit;1;125;"12.01.2019 15:13:11",
+992;91;Gesetz;Fairness;1;134;"12.01.2019 15:13:35",
+993;91;Gesetz;Dafür/Dagegen;1;134;"12.01.2019 15:13:35",
+994;91;Gesetz;Verständlichkeit;1;134;"12.01.2019 15:13:35",
+995;91;Gesetz;Fairness;1;135;"12.01.2019 15:13:38",
+996;91;Gesetz;Dafür/Dagegen;1;135;"12.01.2019 15:13:38",
+997;91;Gesetz;Verständlichkeit;1;135;"12.01.2019 15:13:39",
+998;91;Gesetz;Fairness;1;136;"12.01.2019 15:13:44",
+999;91;Gesetz;Dafür/Dagegen;1;136;"12.01.2019 15:13:44",
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Auf der Suche nach der verlorenen Zeit,Marcel Proust
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Crime and Punishment,Fyodor Dostoevsky
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Fremde,Albert Camus
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Der Prozess,Franz Kafka
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Emma,Jane Austen
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Great Expectations,Charles Dickens
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Hamlet,Shakespeare
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Harry Potter,
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Lord of the Flies,William Golding
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Madame Bovary,Gustave Flaubert
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Middlemarch,George Eliot
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Moby-Dick,Herman Melville
+Rating_id;User_id;Referenz;Aspekt;Wertung;Rating_Bezugs_id;Datum,
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+The Adventures of Huckleberry Finn,Mark Twain
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
+War and Peace,Leo Tolstoy
